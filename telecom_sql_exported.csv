@@ -1,0 +1,1201 @@
+mijoz_id,operator,ulangan_yili,karantin_2020,uy_signal_sifati,internet_tezligi_mbps,oylik_xarajat_som,qollab_quvvatlash_baho,operatorni_ozgartirgan,asosiy_sabab
+CUST-00001,Beeline,2021,Ha,Past,4,44904,2,Ha,Internet tezligi pastligi
+CUST-00002,Mobiuz,2017,Ha,O'rta,26,86081,1,Ha,Tariflar qimmatligi
+CUST-00003,Uzmobile,2017,Ha,Past,4,57761,2,Ha,Tariflar qimmatligi
+CUST-00004,Uzmobile,2020,Ha,Past,14,59491,2,Ha,Tariflar qimmatligi
+CUST-00005,Ucell,2020,Ha,Past,6,58124,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00006,Ucell,2021,Ha,Past,7,56532,5,Yo'q,O'zgartirmagan
+CUST-00007,Ucell,2021,Ha,Zo'r,109,116562,2,Yo'q,O'zgartirmagan
+CUST-00008,Mobiuz,2020,Ha,Past,2,52746,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00009,Uzmobile,2019,Ha,Zo'r,65,174219,1,Ha,Tariflar qimmatligi
+CUST-00010,Uzmobile,2023,Ha,Zo'r,105,109269,3,Yo'q,O'zgartirmagan
+CUST-00011,Ucell,2020,Ha,O'rta,22,83065,1,Yo'q,O'zgartirmagan
+CUST-00012,Mobiuz,2020,Ha,Past,13,42352,5,Yo'q,O'zgartirmagan
+CUST-00013,Mobiuz,2019,Ha,O'rta,18,98591,4,Yo'q,O'zgartirmagan
+CUST-00014,Ucell,2021,Ha,Zo'r,87,132016,3,Yo'q,O'zgartirmagan
+CUST-00015,Ucell,2021,Ha,O'rta,39,71962,4,Yo'q,O'zgartirmagan
+CUST-00016,Ucell,2019,Ha,Past,8,49846,3,Yo'q,O'zgartirmagan
+CUST-00017,Beeline,2018,Ha,O'rta,26,79782,5,Yo'q,O'zgartirmagan
+CUST-00018,Beeline,2021,Ha,Zo'r,78,139725,3,Yo'q,O'zgartirmagan
+CUST-00019,Beeline,2021,Ha,Zo'r,112,178863,5,Yo'q,O'zgartirmagan
+CUST-00020,Ucell,2019,Ha,Past,8,51087,3,Yo'q,O'zgartirmagan
+CUST-00021,Uzmobile,2023,Ha,O'rta,33,92769,1,Yo'q,O'zgartirmagan
+CUST-00022,Ucell,2019,Ha,Past,11,57057,3,Ha,Internet tezligi pastligi
+CUST-00023,Ucell,2020,Ha,Past,14,47488,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00024,Beeline,2023,Ha,Zo'r,56,105269,3,Yo'q,O'zgartirmagan
+CUST-00025,Beeline,2020,Ha,Past,10,45699,3,Ha,Tariflar qimmatligi
+CUST-00026,Uzmobile,2021,Yo'q,Past,2,46821,3,Yo'q,O'zgartirmagan
+CUST-00027,Ucell,2020,Ha,Past,6,33129,1,Ha,Tariflar qimmatligi
+CUST-00028,Beeline,2019,Ha,Zo'r,114,130930,1,Ha,Tariflar qimmatligi
+CUST-00029,Uzmobile,2023,Ha,Zo'r,62,114380,3,Yo'q,O'zgartirmagan
+CUST-00030,Ucell,2020,Ha,O'rta,15,65398,5,Yo'q,O'zgartirmagan
+CUST-00031,Uzmobile,2022,Ha,Zo'r,67,105529,2,Ha,Internet tezligi pastligi
+CUST-00032,Ucell,2019,Ha,Past,14,59062,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00033,Ucell,2019,Ha,O'rta,29,77451,3,Yo'q,O'zgartirmagan
+CUST-00034,Mobiuz,2017,Ha,O'rta,41,66937,3,Ha,Internet tezligi pastligi
+CUST-00035,Mobiuz,2021,Yo'q,Past,2,37118,2,Yo'q,O'zgartirmagan
+CUST-00036,Uzmobile,2020,Ha,O'rta,18,70860,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00037,Beeline,2022,Ha,Zo'r,99,125279,2,Yo'q,O'zgartirmagan
+CUST-00038,Ucell,2020,Ha,Past,12,42472,5,Yo'q,O'zgartirmagan
+CUST-00039,Uzmobile,2023,Ha,Past,6,37996,1,Ha,Internet tezligi pastligi
+CUST-00040,Beeline,2019,Ha,Past,3,47974,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00041,Ucell,2022,Ha,Past,11,37776,1,Ha,Internet tezligi pastligi
+CUST-00042,Beeline,2021,Ha,Zo'r,82,140860,2,Ha,Internet tezligi pastligi
+CUST-00043,Ucell,2021,Yo'q,O'rta,40,95228,4,Yo'q,O'zgartirmagan
+CUST-00044,Mobiuz,2022,Yo'q,O'rta,16,83110,2,Yo'q,O'zgartirmagan
+CUST-00045,Ucell,2021,Ha,Zo'r,47,156633,1,Yo'q,O'zgartirmagan
+CUST-00046,Uzmobile,2021,Ha,Past,3,33114,3,Yo'q,O'zgartirmagan
+CUST-00047,Beeline,2018,Ha,O'rta,21,80028,1,Ha,Internet tezligi pastligi
+CUST-00048,Beeline,2017,Ha,O'rta,28,77587,1,Ha,Internet tezligi pastligi
+CUST-00049,Beeline,2023,Ha,O'rta,20,63174,4,Ha,Internet tezligi pastligi
+CUST-00050,Ucell,2021,Ha,Zo'r,54,135398,4,Yo'q,O'zgartirmagan
+CUST-00051,Mobiuz,2021,Ha,Zo'r,74,155421,5,Yo'q,O'zgartirmagan
+CUST-00052,Uzmobile,2020,Ha,O'rta,42,83760,4,Yo'q,O'zgartirmagan
+CUST-00053,Mobiuz,2018,Ha,Zo'r,118,105801,3,Yo'q,O'zgartirmagan
+CUST-00054,Mobiuz,2018,Ha,Past,4,44271,1,Ha,Tariflar qimmatligi
+CUST-00055,Uzmobile,2021,Ha,Past,13,34151,4,Ha,Tariflar qimmatligi
+CUST-00056,Mobiuz,2020,Ha,Past,10,52559,4,Ha,Internet tezligi pastligi
+CUST-00057,Ucell,2019,Ha,Past,12,46667,4,Ha,Internet tezligi pastligi
+CUST-00058,Ucell,2020,Ha,O'rta,31,63565,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00059,Ucell,2018,Ha,O'rta,41,80977,2,Yo'q,O'zgartirmagan
+CUST-00060,Beeline,2020,Ha,Zo'r,102,157473,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00061,Beeline,2019,Ha,O'rta,18,82641,3,Yo'q,O'zgartirmagan
+CUST-00062,Ucell,2021,Yo'q,O'rta,21,86636,5,Yo'q,O'zgartirmagan
+CUST-00063,Uzmobile,2020,Ha,Past,10,37382,1,Yo'q,O'zgartirmagan
+CUST-00064,Beeline,2020,Ha,Past,13,46149,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00065,Ucell,2017,Ha,O'rta,40,60992,2,Yo'q,O'zgartirmagan
+CUST-00066,Beeline,2018,Ha,O'rta,25,62121,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00067,Ucell,2020,Ha,Zo'r,69,145156,1,Yo'q,O'zgartirmagan
+CUST-00068,Uzmobile,2020,Ha,Past,12,49572,1,Yo'q,O'zgartirmagan
+CUST-00069,Ucell,2021,Ha,Past,7,34136,5,Ha,Internet tezligi pastligi
+CUST-00070,Mobiuz,2019,Ha,O'rta,27,76727,1,Ha,Internet tezligi pastligi
+CUST-00071,Uzmobile,2021,Ha,Past,9,42653,4,Ha,Internet tezligi pastligi
+CUST-00072,Ucell,2022,Yo'q,Past,9,51088,2,Yo'q,O'zgartirmagan
+CUST-00073,Ucell,2021,Yo'q,O'rta,31,64823,4,Yo'q,O'zgartirmagan
+CUST-00074,Uzmobile,2017,Ha,Past,6,34920,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00075,Uzmobile,2020,Ha,O'rta,16,98239,5,Ha,Boshqa sabab
+CUST-00076,Uzmobile,2018,Ha,Past,10,56619,5,Ha,Tariflar qimmatligi
+CUST-00077,Uzmobile,2019,Ha,Past,9,33720,1,Ha,Internet tezligi pastligi
+CUST-00078,Ucell,2023,Yo'q,O'rta,18,75696,1,Ha,Internet tezligi pastligi
+CUST-00079,Beeline,2018,Ha,Zo'r,61,153364,2,Yo'q,O'zgartirmagan
+CUST-00080,Ucell,2020,Ha,O'rta,32,85693,3,Yo'q,O'zgartirmagan
+CUST-00081,Mobiuz,2021,Ha,Zo'r,84,119385,4,Yo'q,O'zgartirmagan
+CUST-00082,Uzmobile,2021,Yo'q,Past,12,31364,3,Yo'q,O'zgartirmagan
+CUST-00083,Beeline,2020,Ha,Zo'r,65,165425,3,Ha,Internet tezligi pastligi
+CUST-00084,Ucell,2017,Ha,Past,8,47308,1,Ha,Tariflar qimmatligi
+CUST-00085,Beeline,2020,Ha,O'rta,38,85161,4,Ha,Internet tezligi pastligi
+CUST-00086,Beeline,2020,Ha,O'rta,27,95089,5,Yo'q,O'zgartirmagan
+CUST-00087,Uzmobile,2018,Ha,Zo'r,86,100495,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00088,Uzmobile,2020,Ha,O'rta,34,62148,3,Yo'q,O'zgartirmagan
+CUST-00089,Mobiuz,2017,Ha,Past,14,43393,1,Ha,Internet tezligi pastligi
+CUST-00090,Beeline,2018,Ha,Past,2,48504,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00091,Ucell,2020,Ha,Zo'r,58,132924,3,Yo'q,O'zgartirmagan
+CUST-00092,Uzmobile,2018,Ha,O'rta,18,83889,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00093,Uzmobile,2020,Ha,Zo'r,64,173591,2,Yo'q,O'zgartirmagan
+CUST-00094,Beeline,2021,Ha,Past,12,41468,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00095,Uzmobile,2022,Ha,Past,12,37950,3,Yo'q,O'zgartirmagan
+CUST-00096,Beeline,2019,Ha,Past,13,47380,3,Ha,Tariflar qimmatligi
+CUST-00097,Beeline,2019,Ha,Zo'r,63,152057,1,Ha,Tariflar qimmatligi
+CUST-00098,Beeline,2018,Ha,O'rta,34,74873,4,Ha,Tariflar qimmatligi
+CUST-00099,Ucell,2021,Yo'q,Zo'r,70,100153,3,Yo'q,O'zgartirmagan
+CUST-00100,Ucell,2021,Ha,Past,13,45792,2,Ha,Tariflar qimmatligi
+CUST-00101,Ucell,2017,Ha,O'rta,32,98367,1,Yo'q,O'zgartirmagan
+CUST-00102,Uzmobile,2023,Yo'q,O'rta,35,71049,4,Yo'q,O'zgartirmagan
+CUST-00103,Beeline,2018,Ha,Past,4,34368,5,Ha,Tariflar qimmatligi
+CUST-00104,Beeline,2020,Ha,Zo'r,77,147691,2,Yo'q,O'zgartirmagan
+CUST-00105,Mobiuz,2021,Ha,Zo'r,93,157986,2,Ha,Boshqa sabab
+CUST-00106,Ucell,2022,Ha,Zo'r,93,119810,1,Yo'q,O'zgartirmagan
+CUST-00107,Beeline,2021,Yo'q,O'rta,22,81811,3,Yo'q,O'zgartirmagan
+CUST-00108,Uzmobile,2022,Ha,Past,5,54436,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00109,Ucell,2020,Ha,Past,7,44086,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00110,Ucell,2022,Yo'q,Zo'r,90,139779,3,Yo'q,O'zgartirmagan
+CUST-00111,Ucell,2018,Ha,Past,9,31212,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00112,Ucell,2022,Yo'q,O'rta,36,74141,2,Ha,Internet tezligi pastligi
+CUST-00113,Mobiuz,2020,Ha,O'rta,15,99472,2,Yo'q,O'zgartirmagan
+CUST-00114,Uzmobile,2022,Ha,O'rta,39,83817,3,Yo'q,O'zgartirmagan
+CUST-00115,Uzmobile,2020,Ha,Zo'r,60,110681,1,Yo'q,O'zgartirmagan
+CUST-00116,Mobiuz,2021,Yo'q,Past,9,33228,1,Ha,Internet tezligi pastligi
+CUST-00117,Uzmobile,2020,Ha,Past,8,43147,4,Ha,Tariflar qimmatligi
+CUST-00118,Ucell,2021,Ha,Past,7,36031,1,Ha,Tariflar qimmatligi
+CUST-00119,Mobiuz,2018,Ha,O'rta,34,73647,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00120,Beeline,2018,Ha,Past,8,41496,5,Ha,Tariflar qimmatligi
+CUST-00121,Uzmobile,2019,Ha,Past,12,49097,2,Ha,Tariflar qimmatligi
+CUST-00122,Mobiuz,2019,Ha,Zo'r,115,140096,2,Yo'q,O'zgartirmagan
+CUST-00123,Beeline,2022,Ha,Zo'r,70,152344,3,Yo'q,O'zgartirmagan
+CUST-00124,Ucell,2019,Ha,Past,14,47107,4,Ha,Tariflar qimmatligi
+CUST-00125,Ucell,2023,Yo'q,O'rta,17,65555,5,Ha,Internet tezligi pastligi
+CUST-00126,Beeline,2020,Ha,Zo'r,112,128412,3,Yo'q,O'zgartirmagan
+CUST-00127,Uzmobile,2019,Ha,Past,11,48890,1,Ha,Tariflar qimmatligi
+CUST-00128,Mobiuz,2021,Yo'q,Past,3,46781,3,Yo'q,O'zgartirmagan
+CUST-00129,Ucell,2021,Ha,Past,13,41549,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00130,Beeline,2020,Ha,O'rta,31,85739,3,Yo'q,O'zgartirmagan
+CUST-00131,Beeline,2020,Ha,Past,11,38747,1,Yo'q,O'zgartirmagan
+CUST-00132,Ucell,2021,Yo'q,Zo'r,77,115116,1,Ha,Internet tezligi pastligi
+CUST-00133,Ucell,2019,Ha,O'rta,28,86327,4,Yo'q,O'zgartirmagan
+CUST-00134,Beeline,2023,Ha,O'rta,44,86905,3,Yo'q,O'zgartirmagan
+CUST-00135,Mobiuz,2023,Yo'q,Past,6,37067,2,Ha,Tariflar qimmatligi
+CUST-00136,Beeline,2021,Yo'q,O'rta,30,77985,2,Yo'q,O'zgartirmagan
+CUST-00137,Beeline,2019,Ha,O'rta,24,77864,4,Yo'q,O'zgartirmagan
+CUST-00138,Uzmobile,2021,Ha,Zo'r,67,106447,3,Yo'q,O'zgartirmagan
+CUST-00139,Beeline,2018,Ha,Zo'r,46,131315,2,Ha,Tariflar qimmatligi
+CUST-00140,Mobiuz,2017,Ha,O'rta,34,99469,1,Yo'q,O'zgartirmagan
+CUST-00141,Mobiuz,2019,Ha,Zo'r,47,107489,2,Ha,Internet tezligi pastligi
+CUST-00142,Ucell,2020,Ha,Zo'r,60,177355,5,Ha,Internet tezligi pastligi
+CUST-00143,Beeline,2022,Yo'q,Zo'r,50,101996,3,Yo'q,O'zgartirmagan
+CUST-00144,Beeline,2021,Ha,Past,5,46661,3,Ha,Boshqa sabab
+CUST-00145,Ucell,2021,Ha,Past,3,30523,3,Ha,Internet tezligi pastligi
+CUST-00146,Ucell,2020,Ha,Past,5,42410,2,Yo'q,O'zgartirmagan
+CUST-00147,Uzmobile,2020,Ha,O'rta,36,90429,4,Yo'q,O'zgartirmagan
+CUST-00148,Beeline,2020,Ha,O'rta,35,79506,3,Ha,Internet tezligi pastligi
+CUST-00149,Ucell,2023,Ha,O'rta,22,65190,1,Ha,Internet tezligi pastligi
+CUST-00150,Ucell,2017,Ha,Zo'r,92,134565,1,Yo'q,O'zgartirmagan
+CUST-00151,Mobiuz,2022,Ha,Zo'r,71,122884,3,Yo'q,O'zgartirmagan
+CUST-00152,Ucell,2020,Ha,Zo'r,92,160038,5,Yo'q,O'zgartirmagan
+CUST-00153,Ucell,2020,Ha,Past,12,41332,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00154,Beeline,2021,Yo'q,O'rta,25,72479,4,Yo'q,O'zgartirmagan
+CUST-00155,Mobiuz,2020,Ha,Past,4,42665,4,Ha,Tariflar qimmatligi
+CUST-00156,Ucell,2022,Yo'q,Past,6,30534,2,Ha,Tariflar qimmatligi
+CUST-00157,Uzmobile,2022,Ha,Past,6,33364,1,Ha,Internet tezligi pastligi
+CUST-00158,Uzmobile,2020,Ha,Past,10,33342,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00159,Ucell,2019,Ha,O'rta,17,82469,3,Yo'q,O'zgartirmagan
+CUST-00160,Uzmobile,2020,Ha,Zo'r,61,146233,1,Ha,Internet tezligi pastligi
+CUST-00161,Beeline,2022,Yo'q,Past,6,31172,2,Yo'q,O'zgartirmagan
+CUST-00162,Uzmobile,2019,Ha,O'rta,39,87914,3,Yo'q,O'zgartirmagan
+CUST-00163,Uzmobile,2021,Ha,O'rta,20,94409,3,Yo'q,O'zgartirmagan
+CUST-00164,Beeline,2021,Ha,Past,9,49324,1,Ha,Internet tezligi pastligi
+CUST-00165,Ucell,2021,Ha,O'rta,17,97494,2,Yo'q,O'zgartirmagan
+CUST-00166,Mobiuz,2018,Ha,Past,8,59709,3,Ha,Tariflar qimmatligi
+CUST-00167,Beeline,2021,Ha,O'rta,24,80107,3,Yo'q,O'zgartirmagan
+CUST-00168,Ucell,2022,Ha,O'rta,20,60363,4,Yo'q,O'zgartirmagan
+CUST-00169,Ucell,2019,Ha,Past,8,33309,1,Yo'q,O'zgartirmagan
+CUST-00170,Uzmobile,2019,Ha,Past,3,33240,4,Yo'q,O'zgartirmagan
+CUST-00171,Uzmobile,2023,Ha,O'rta,24,61936,3,Yo'q,O'zgartirmagan
+CUST-00172,Ucell,2019,Ha,Zo'r,61,143965,3,Yo'q,O'zgartirmagan
+CUST-00173,Beeline,2022,Ha,Past,4,50224,3,Ha,Internet tezligi pastligi
+CUST-00174,Ucell,2020,Ha,O'rta,26,90825,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00175,Uzmobile,2019,Ha,O'rta,35,88885,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00176,Ucell,2022,Ha,Zo'r,48,160241,3,Yo'q,O'zgartirmagan
+CUST-00177,Uzmobile,2020,Ha,Zo'r,113,168619,3,Yo'q,O'zgartirmagan
+CUST-00178,Beeline,2020,Ha,O'rta,31,68521,3,Ha,Internet tezligi pastligi
+CUST-00179,Mobiuz,2020,Ha,O'rta,16,93541,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00180,Ucell,2020,Ha,Zo'r,52,170268,5,Yo'q,O'zgartirmagan
+CUST-00181,Beeline,2019,Ha,O'rta,33,87518,3,Yo'q,O'zgartirmagan
+CUST-00182,Ucell,2020,Ha,Past,13,36984,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00183,Mobiuz,2023,Ha,Past,3,32567,2,Yo'q,O'zgartirmagan
+CUST-00184,Mobiuz,2019,Ha,Zo'r,55,176411,4,Yo'q,O'zgartirmagan
+CUST-00185,Ucell,2021,Ha,Zo'r,97,166275,4,Yo'q,O'zgartirmagan
+CUST-00186,Uzmobile,2020,Ha,Past,11,59140,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00187,Uzmobile,2021,Ha,O'rta,34,69327,4,Yo'q,O'zgartirmagan
+CUST-00188,Beeline,2018,Ha,O'rta,22,83331,2,Yo'q,O'zgartirmagan
+CUST-00189,Beeline,2023,Ha,Past,14,39065,2,Ha,Internet tezligi pastligi
+CUST-00190,Ucell,2020,Ha,Zo'r,58,158095,4,Yo'q,O'zgartirmagan
+CUST-00191,Ucell,2019,Ha,Past,7,53508,4,Ha,Tariflar qimmatligi
+CUST-00192,Mobiuz,2018,Ha,Past,7,50116,3,Ha,Internet tezligi pastligi
+CUST-00193,Mobiuz,2019,Ha,O'rta,26,69521,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00194,Uzmobile,2020,Ha,O'rta,44,87302,1,Ha,Internet tezligi pastligi
+CUST-00195,Beeline,2020,Ha,Past,5,36998,4,Ha,Tariflar qimmatligi
+CUST-00196,Beeline,2022,Yo'q,O'rta,21,91624,2,Yo'q,O'zgartirmagan
+CUST-00197,Uzmobile,2020,Ha,O'rta,15,81797,1,Ha,Internet tezligi pastligi
+CUST-00198,Mobiuz,2019,Ha,Past,7,37868,2,Ha,Internet tezligi pastligi
+CUST-00199,Mobiuz,2021,Ha,Past,13,42373,2,Ha,Tariflar qimmatligi
+CUST-00200,Uzmobile,2021,Ha,O'rta,26,98729,2,Yo'q,O'zgartirmagan
+CUST-00201,Uzmobile,2019,Ha,Past,8,39661,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00202,Ucell,2019,Ha,Zo'r,50,162514,1,Ha,Tariflar qimmatligi
+CUST-00203,Ucell,2017,Ha,Zo'r,82,109111,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00204,Mobiuz,2021,Ha,Zo'r,95,163753,3,Ha,Internet tezligi pastligi
+CUST-00205,Uzmobile,2021,Ha,Past,9,45047,2,Ha,Tariflar qimmatligi
+CUST-00206,Ucell,2020,Ha,Zo'r,65,121751,2,Ha,Tariflar qimmatligi
+CUST-00207,Ucell,2022,Ha,O'rta,20,80308,3,Yo'q,O'zgartirmagan
+CUST-00208,Uzmobile,2022,Ha,Past,10,40278,4,Ha,Internet tezligi pastligi
+CUST-00209,Ucell,2020,Ha,Past,9,55376,4,Yo'q,O'zgartirmagan
+CUST-00210,Ucell,2022,Ha,Past,12,43329,2,Ha,Tariflar qimmatligi
+CUST-00211,Beeline,2019,Ha,O'rta,38,62779,3,Yo'q,O'zgartirmagan
+CUST-00212,Uzmobile,2018,Ha,O'rta,39,60755,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00213,Uzmobile,2019,Ha,Past,13,52319,1,Ha,Tariflar qimmatligi
+CUST-00214,Ucell,2018,Ha,O'rta,24,77400,2,Yo'q,O'zgartirmagan
+CUST-00215,Uzmobile,2020,Ha,Past,5,44249,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00216,Ucell,2023,Ha,O'rta,24,84600,2,Yo'q,O'zgartirmagan
+CUST-00217,Beeline,2017,Ha,O'rta,25,79222,1,Yo'q,O'zgartirmagan
+CUST-00218,Uzmobile,2018,Ha,Zo'r,101,141139,1,Yo'q,O'zgartirmagan
+CUST-00219,Uzmobile,2020,Ha,Zo'r,75,168159,4,Yo'q,O'zgartirmagan
+CUST-00220,Mobiuz,2023,Ha,O'rta,21,73543,3,Yo'q,O'zgartirmagan
+CUST-00221,Uzmobile,2020,Ha,O'rta,15,82785,2,Ha,Tariflar qimmatligi
+CUST-00222,Beeline,2020,Ha,O'rta,32,91406,3,Yo'q,O'zgartirmagan
+CUST-00223,Ucell,2017,Ha,Zo'r,77,151428,3,Ha,Internet tezligi pastligi
+CUST-00224,Beeline,2018,Ha,Past,3,55171,3,Ha,Internet tezligi pastligi
+CUST-00225,Ucell,2023,Ha,Past,4,50914,2,Ha,Tariflar qimmatligi
+CUST-00226,Ucell,2023,Yo'q,Past,3,53548,4,Ha,Internet tezligi pastligi
+CUST-00227,Mobiuz,2017,Ha,O'rta,36,97265,2,Yo'q,O'zgartirmagan
+CUST-00228,Beeline,2023,Ha,O'rta,28,66727,3,Yo'q,O'zgartirmagan
+CUST-00229,Mobiuz,2021,Ha,Zo'r,74,132427,1,Yo'q,O'zgartirmagan
+CUST-00230,Uzmobile,2022,Ha,Past,6,54918,2,Ha,Internet tezligi pastligi
+CUST-00231,Uzmobile,2020,Ha,O'rta,34,75577,2,Ha,Tariflar qimmatligi
+CUST-00232,Beeline,2020,Ha,Zo'r,80,127689,3,Yo'q,O'zgartirmagan
+CUST-00233,Beeline,2020,Ha,Zo'r,63,121341,1,Ha,Tariflar qimmatligi
+CUST-00234,Beeline,2021,Ha,O'rta,33,69145,4,Yo'q,O'zgartirmagan
+CUST-00235,Ucell,2018,Ha,O'rta,37,82223,2,Yo'q,O'zgartirmagan
+CUST-00236,Uzmobile,2017,Ha,Past,2,56763,3,Yo'q,O'zgartirmagan
+CUST-00237,Ucell,2020,Ha,Zo'r,68,133313,4,Yo'q,O'zgartirmagan
+CUST-00238,Ucell,2021,Yo'q,Past,6,43304,3,Ha,Internet tezligi pastligi
+CUST-00239,Uzmobile,2019,Ha,Zo'r,52,130225,3,Yo'q,O'zgartirmagan
+CUST-00240,Ucell,2021,Yo'q,O'rta,39,90831,3,Yo'q,O'zgartirmagan
+CUST-00241,Mobiuz,2023,Ha,O'rta,19,71673,2,Yo'q,O'zgartirmagan
+CUST-00242,Mobiuz,2018,Ha,Past,7,45372,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00243,Mobiuz,2021,Yo'q,O'rta,33,62663,2,Yo'q,O'zgartirmagan
+CUST-00244,Beeline,2020,Ha,O'rta,41,69465,3,Yo'q,O'zgartirmagan
+CUST-00245,Ucell,2022,Ha,Past,13,57521,3,Ha,Tariflar qimmatligi
+CUST-00246,Mobiuz,2019,Ha,O'rta,25,64763,2,Ha,Internet tezligi pastligi
+CUST-00247,Beeline,2021,Yo'q,Zo'r,46,137860,2,Yo'q,O'zgartirmagan
+CUST-00248,Mobiuz,2022,Ha,O'rta,21,73515,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00249,Mobiuz,2023,Ha,O'rta,30,81691,4,Yo'q,O'zgartirmagan
+CUST-00250,Mobiuz,2021,Ha,Past,10,57167,5,Ha,Tariflar qimmatligi
+CUST-00251,Ucell,2020,Ha,O'rta,29,63044,3,Yo'q,O'zgartirmagan
+CUST-00252,Beeline,2021,Ha,Past,14,35636,3,Ha,Tariflar qimmatligi
+CUST-00253,Mobiuz,2022,Ha,O'rta,25,71593,5,Yo'q,O'zgartirmagan
+CUST-00254,Beeline,2020,Ha,Zo'r,96,102892,1,Yo'q,O'zgartirmagan
+CUST-00255,Ucell,2017,Ha,O'rta,23,65812,2,Ha,Tariflar qimmatligi
+CUST-00256,Beeline,2023,Ha,Past,3,30654,3,Ha,Internet tezligi pastligi
+CUST-00257,Mobiuz,2021,Yo'q,O'rta,24,77143,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00258,Uzmobile,2021,Yo'q,O'rta,21,97927,4,Ha,Internet tezligi pastligi
+CUST-00259,Beeline,2019,Ha,O'rta,42,89087,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00260,Ucell,2021,Ha,Zo'r,59,148867,1,Yo'q,O'zgartirmagan
+CUST-00261,Uzmobile,2020,Ha,Zo'r,114,127200,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00262,Mobiuz,2021,Yo'q,O'rta,18,82538,2,Ha,Tariflar qimmatligi
+CUST-00263,Ucell,2018,Ha,O'rta,26,80900,2,Ha,Internet tezligi pastligi
+CUST-00264,Beeline,2021,Ha,Past,8,55820,4,Yo'q,O'zgartirmagan
+CUST-00265,Mobiuz,2023,Ha,Past,6,53023,1,Ha,Internet tezligi pastligi
+CUST-00266,Uzmobile,2017,Ha,O'rta,27,99148,4,Ha,Internet tezligi pastligi
+CUST-00267,Uzmobile,2023,Ha,O'rta,31,80698,2,Ha,Tariflar qimmatligi
+CUST-00268,Uzmobile,2020,Ha,O'rta,21,86535,3,Yo'q,O'zgartirmagan
+CUST-00269,Beeline,2022,Yo'q,O'rta,27,95450,1,Ha,Internet tezligi pastligi
+CUST-00270,Ucell,2021,Ha,Past,14,38446,2,Yo'q,O'zgartirmagan
+CUST-00271,Uzmobile,2020,Ha,O'rta,18,64711,1,Yo'q,O'zgartirmagan
+CUST-00272,Uzmobile,2021,Ha,Past,6,43161,5,Yo'q,O'zgartirmagan
+CUST-00273,Mobiuz,2022,Yo'q,Past,10,44635,4,Ha,Tariflar qimmatligi
+CUST-00274,Mobiuz,2020,Ha,Zo'r,56,120836,3,Yo'q,O'zgartirmagan
+CUST-00275,Beeline,2020,Ha,Past,2,56331,2,Ha,Internet tezligi pastligi
+CUST-00276,Beeline,2021,Ha,O'rta,23,70763,5,Yo'q,O'zgartirmagan
+CUST-00277,Uzmobile,2022,Ha,Past,6,57573,2,Ha,Boshqa sabab
+CUST-00278,Uzmobile,2021,Ha,Zo'r,98,104379,1,Ha,Internet tezligi pastligi
+CUST-00279,Uzmobile,2021,Ha,O'rta,38,76482,3,Yo'q,O'zgartirmagan
+CUST-00280,Uzmobile,2020,Ha,Past,6,57105,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00281,Mobiuz,2022,Ha,O'rta,28,78252,1,Yo'q,O'zgartirmagan
+CUST-00282,Beeline,2018,Ha,O'rta,21,79049,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00283,Beeline,2020,Ha,Zo'r,102,102637,5,Yo'q,O'zgartirmagan
+CUST-00284,Ucell,2017,Ha,Past,12,39257,1,Ha,Tariflar qimmatligi
+CUST-00285,Beeline,2020,Ha,Zo'r,82,128742,1,Yo'q,O'zgartirmagan
+CUST-00286,Ucell,2020,Ha,Zo'r,100,146762,3,Yo'q,O'zgartirmagan
+CUST-00287,Beeline,2020,Ha,Zo'r,59,118830,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00288,Beeline,2021,Ha,O'rta,19,68412,3,Yo'q,O'zgartirmagan
+CUST-00289,Ucell,2020,Ha,O'rta,33,97045,5,Ha,Tariflar qimmatligi
+CUST-00290,Uzmobile,2020,Ha,O'rta,33,65515,3,Yo'q,O'zgartirmagan
+CUST-00291,Ucell,2019,Ha,Zo'r,48,115198,1,Yo'q,O'zgartirmagan
+CUST-00292,Ucell,2020,Ha,O'rta,32,89475,5,Yo'q,O'zgartirmagan
+CUST-00293,Uzmobile,2019,Ha,O'rta,39,79403,2,Ha,Tariflar qimmatligi
+CUST-00294,Beeline,2018,Ha,O'rta,16,86019,2,Yo'q,O'zgartirmagan
+CUST-00295,Ucell,2021,Yo'q,O'rta,19,87586,3,Ha,Internet tezligi pastligi
+CUST-00296,Beeline,2021,Ha,Zo'r,53,142292,2,Yo'q,O'zgartirmagan
+CUST-00297,Uzmobile,2021,Ha,Past,3,37082,1,Ha,Internet tezligi pastligi
+CUST-00298,Ucell,2020,Ha,Zo'r,79,105629,1,Yo'q,O'zgartirmagan
+CUST-00299,Uzmobile,2020,Ha,O'rta,39,72278,2,Yo'q,O'zgartirmagan
+CUST-00300,Ucell,2022,Yo'q,Zo'r,48,156574,4,Yo'q,O'zgartirmagan
+CUST-00301,Ucell,2020,Ha,O'rta,27,85009,3,Yo'q,O'zgartirmagan
+CUST-00302,Beeline,2020,Ha,O'rta,29,87675,5,Ha,Tariflar qimmatligi
+CUST-00303,Beeline,2017,Ha,Zo'r,86,172267,2,Ha,Tariflar qimmatligi
+CUST-00304,Uzmobile,2020,Ha,Past,5,41332,2,Yo'q,O'zgartirmagan
+CUST-00305,Uzmobile,2020,Ha,Zo'r,45,168447,1,Ha,Tariflar qimmatligi
+CUST-00306,Mobiuz,2020,Ha,O'rta,40,78799,1,Ha,Internet tezligi pastligi
+CUST-00307,Beeline,2020,Ha,O'rta,41,75194,2,Ha,Internet tezligi pastligi
+CUST-00308,Beeline,2020,Ha,Past,9,38098,4,Ha,Internet tezligi pastligi
+CUST-00309,Uzmobile,2021,Ha,O'rta,28,81673,5,Ha,Internet tezligi pastligi
+CUST-00310,Ucell,2021,Ha,Past,7,38102,5,Ha,Internet tezligi pastligi
+CUST-00311,Beeline,2022,Yo'q,Past,11,59232,2,Ha,Internet tezligi pastligi
+CUST-00312,Ucell,2021,Ha,Past,7,55494,4,Ha,Internet tezligi pastligi
+CUST-00313,Ucell,2023,Ha,Past,7,57779,2,Yo'q,O'zgartirmagan
+CUST-00314,Mobiuz,2017,Ha,Zo'r,93,100835,1,Yo'q,O'zgartirmagan
+CUST-00315,Mobiuz,2019,Ha,Zo'r,115,118646,4,Yo'q,O'zgartirmagan
+CUST-00316,Uzmobile,2017,Ha,O'rta,16,71824,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00317,Beeline,2021,Ha,O'rta,38,63815,1,Yo'q,O'zgartirmagan
+CUST-00318,Ucell,2022,Yo'q,Past,8,32429,2,Ha,Internet tezligi pastligi
+CUST-00319,Ucell,2019,Ha,O'rta,29,62607,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00320,Ucell,2023,Ha,Zo'r,95,177527,3,Yo'q,O'zgartirmagan
+CUST-00321,Beeline,2018,Ha,Zo'r,93,131099,3,Yo'q,O'zgartirmagan
+CUST-00322,Uzmobile,2023,Yo'q,O'rta,40,95919,5,Yo'q,O'zgartirmagan
+CUST-00323,Uzmobile,2020,Ha,Zo'r,101,160782,1,Yo'q,O'zgartirmagan
+CUST-00324,Ucell,2018,Ha,Past,14,37054,2,Ha,Internet tezligi pastligi
+CUST-00325,Mobiuz,2020,Ha,Zo'r,71,140387,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00326,Uzmobile,2019,Ha,Past,13,33491,3,Ha,Tariflar qimmatligi
+CUST-00327,Beeline,2019,Ha,O'rta,17,91957,2,Ha,Internet tezligi pastligi
+CUST-00328,Uzmobile,2020,Ha,O'rta,31,66997,3,Yo'q,O'zgartirmagan
+CUST-00329,Beeline,2022,Ha,O'rta,32,98523,4,Yo'q,O'zgartirmagan
+CUST-00330,Ucell,2020,Ha,Past,2,55163,5,Yo'q,O'zgartirmagan
+CUST-00331,Beeline,2020,Ha,Zo'r,99,139619,4,Yo'q,O'zgartirmagan
+CUST-00332,Uzmobile,2021,Ha,Past,13,37865,4,Yo'q,O'zgartirmagan
+CUST-00333,Ucell,2021,Ha,O'rta,37,63317,3,Yo'q,O'zgartirmagan
+CUST-00334,Ucell,2019,Ha,Past,6,41347,4,Ha,Tariflar qimmatligi
+CUST-00335,Ucell,2020,Ha,Past,8,53195,2,Ha,Internet tezligi pastligi
+CUST-00336,Ucell,2018,Ha,O'rta,30,99828,2,Ha,Tariflar qimmatligi
+CUST-00337,Mobiuz,2019,Ha,O'rta,29,75504,2,Ha,Internet tezligi pastligi
+CUST-00338,Uzmobile,2021,Ha,Past,3,56660,3,Ha,Boshqa sabab
+CUST-00339,Beeline,2019,Ha,Past,14,30402,2,Ha,Tariflar qimmatligi
+CUST-00340,Ucell,2020,Ha,O'rta,44,75761,5,Ha,Internet tezligi pastligi
+CUST-00341,Beeline,2021,Ha,Zo'r,106,127043,2,Yo'q,O'zgartirmagan
+CUST-00342,Beeline,2018,Ha,Zo'r,96,133132,1,Yo'q,O'zgartirmagan
+CUST-00343,Ucell,2020,Ha,Past,13,45366,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00344,Beeline,2019,Ha,O'rta,39,66571,1,Yo'q,O'zgartirmagan
+CUST-00345,Beeline,2023,Ha,Past,6,46963,1,Ha,Internet tezligi pastligi
+CUST-00346,Uzmobile,2020,Ha,Past,12,55121,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00347,Uzmobile,2022,Ha,O'rta,16,99236,3,Yo'q,O'zgartirmagan
+CUST-00348,Ucell,2020,Ha,O'rta,37,79423,2,Yo'q,O'zgartirmagan
+CUST-00349,Beeline,2017,Ha,Past,11,59992,4,Ha,Tariflar qimmatligi
+CUST-00350,Uzmobile,2021,Ha,Past,14,58902,3,Yo'q,O'zgartirmagan
+CUST-00351,Beeline,2023,Ha,Past,6,42153,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00352,Mobiuz,2021,Ha,Zo'r,54,179369,2,Yo'q,O'zgartirmagan
+CUST-00353,Uzmobile,2022,Ha,Zo'r,104,178975,2,Ha,Internet tezligi pastligi
+CUST-00354,Ucell,2022,Ha,Past,4,53956,4,Yo'q,O'zgartirmagan
+CUST-00355,Ucell,2019,Ha,Past,9,55792,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00356,Uzmobile,2019,Ha,Zo'r,74,101168,1,Yo'q,O'zgartirmagan
+CUST-00357,Ucell,2021,Ha,Zo'r,113,135897,4,Yo'q,O'zgartirmagan
+CUST-00358,Uzmobile,2020,Ha,O'rta,39,95294,3,Yo'q,O'zgartirmagan
+CUST-00359,Mobiuz,2022,Yo'q,Past,5,33516,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00360,Beeline,2022,Ha,Past,9,53722,2,Ha,Internet tezligi pastligi
+CUST-00361,Beeline,2020,Ha,O'rta,33,96323,5,Yo'q,O'zgartirmagan
+CUST-00362,Uzmobile,2019,Ha,O'rta,32,74157,4,Yo'q,O'zgartirmagan
+CUST-00363,Beeline,2021,Ha,Past,9,36752,3,Yo'q,O'zgartirmagan
+CUST-00364,Beeline,2019,Ha,O'rta,44,99132,3,Yo'q,O'zgartirmagan
+CUST-00365,Mobiuz,2022,Ha,Past,12,50400,3,Yo'q,O'zgartirmagan
+CUST-00366,Beeline,2020,Ha,Zo'r,80,177065,5,Yo'q,O'zgartirmagan
+CUST-00367,Mobiuz,2021,Ha,Past,7,56424,5,Ha,Internet tezligi pastligi
+CUST-00368,Mobiuz,2018,Ha,Past,2,43382,2,Ha,Internet tezligi pastligi
+CUST-00369,Ucell,2021,Ha,O'rta,40,73844,4,Yo'q,O'zgartirmagan
+CUST-00370,Ucell,2020,Ha,O'rta,42,64175,1,Yo'q,O'zgartirmagan
+CUST-00371,Ucell,2020,Ha,Zo'r,100,174710,2,Ha,Boshqa sabab
+CUST-00372,Ucell,2019,Ha,O'rta,34,81395,3,Yo'q,O'zgartirmagan
+CUST-00373,Ucell,2021,Yo'q,Past,7,30693,2,Yo'q,O'zgartirmagan
+CUST-00374,Uzmobile,2022,Ha,O'rta,39,91351,5,Yo'q,O'zgartirmagan
+CUST-00375,Ucell,2019,Ha,Past,6,43841,1,Ha,Internet tezligi pastligi
+CUST-00376,Beeline,2018,Ha,Zo'r,91,179557,3,Ha,Tariflar qimmatligi
+CUST-00377,Mobiuz,2017,Ha,O'rta,39,65724,5,Ha,Internet tezligi pastligi
+CUST-00378,Ucell,2021,Ha,O'rta,33,61407,5,Yo'q,O'zgartirmagan
+CUST-00379,Uzmobile,2021,Ha,Past,2,55792,1,Ha,Internet tezligi pastligi
+CUST-00380,Ucell,2020,Ha,O'rta,27,77794,2,Ha,Tariflar qimmatligi
+CUST-00381,Ucell,2019,Ha,Zo'r,86,149703,3,Yo'q,O'zgartirmagan
+CUST-00382,Uzmobile,2020,Ha,Zo'r,111,178462,1,Ha,Boshqa sabab
+CUST-00383,Uzmobile,2020,Ha,Past,14,30997,5,Yo'q,O'zgartirmagan
+CUST-00384,Mobiuz,2020,Ha,Past,14,44390,5,Yo'q,O'zgartirmagan
+CUST-00385,Uzmobile,2023,Yo'q,Zo'r,96,127307,1,Ha,Tariflar qimmatligi
+CUST-00386,Uzmobile,2018,Ha,Zo'r,100,124502,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00387,Ucell,2021,Yo'q,Past,8,43509,1,Ha,Tariflar qimmatligi
+CUST-00388,Ucell,2020,Ha,O'rta,33,91692,5,Yo'q,O'zgartirmagan
+CUST-00389,Uzmobile,2020,Ha,Past,2,45958,1,Ha,Internet tezligi pastligi
+CUST-00390,Uzmobile,2021,Yo'q,Zo'r,117,110748,2,Yo'q,O'zgartirmagan
+CUST-00391,Mobiuz,2021,Yo'q,Past,3,40514,2,Ha,Internet tezligi pastligi
+CUST-00392,Beeline,2023,Yo'q,Past,4,38695,3,Yo'q,O'zgartirmagan
+CUST-00393,Beeline,2018,Ha,Zo'r,51,141662,1,Ha,Tariflar qimmatligi
+CUST-00394,Uzmobile,2018,Ha,Past,11,46698,2,Ha,Boshqa sabab
+CUST-00395,Beeline,2021,Ha,O'rta,34,95144,5,Yo'q,O'zgartirmagan
+CUST-00396,Mobiuz,2020,Ha,O'rta,31,97146,5,Yo'q,O'zgartirmagan
+CUST-00397,Mobiuz,2019,Ha,Past,3,30574,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00398,Beeline,2018,Ha,O'rta,44,91331,1,Yo'q,O'zgartirmagan
+CUST-00399,Uzmobile,2018,Ha,O'rta,33,86128,2,Ha,Internet tezligi pastligi
+CUST-00400,Uzmobile,2022,Ha,Past,6,59094,3,Ha,Internet tezligi pastligi
+CUST-00401,Ucell,2019,Ha,O'rta,32,81876,2,Ha,Internet tezligi pastligi
+CUST-00402,Mobiuz,2020,Ha,Zo'r,115,171206,5,Yo'q,O'zgartirmagan
+CUST-00403,Beeline,2019,Ha,Zo'r,80,112716,3,Yo'q,O'zgartirmagan
+CUST-00404,Uzmobile,2020,Ha,Past,5,36117,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00405,Beeline,2018,Ha,Past,10,37837,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00406,Mobiuz,2020,Ha,Past,13,44531,5,Yo'q,O'zgartirmagan
+CUST-00407,Beeline,2018,Ha,O'rta,38,96877,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00408,Ucell,2022,Ha,O'rta,19,81560,3,Yo'q,O'zgartirmagan
+CUST-00409,Mobiuz,2019,Ha,O'rta,33,68720,2,Ha,Internet tezligi pastligi
+CUST-00410,Ucell,2020,Ha,Past,9,58362,2,Ha,Tariflar qimmatligi
+CUST-00411,Beeline,2022,Ha,Past,4,51782,1,Ha,Tariflar qimmatligi
+CUST-00412,Mobiuz,2021,Ha,O'rta,31,81120,3,Yo'q,O'zgartirmagan
+CUST-00413,Mobiuz,2020,Ha,O'rta,29,87912,5,Yo'q,O'zgartirmagan
+CUST-00414,Beeline,2020,Ha,Past,13,47303,3,Ha,Internet tezligi pastligi
+CUST-00415,Uzmobile,2020,Ha,O'rta,42,94812,1,Ha,Tariflar qimmatligi
+CUST-00416,Beeline,2021,Yo'q,Past,4,48133,3,Yo'q,O'zgartirmagan
+CUST-00417,Ucell,2023,Ha,Zo'r,71,150251,2,Yo'q,O'zgartirmagan
+CUST-00418,Beeline,2021,Ha,Zo'r,64,136160,4,Yo'q,O'zgartirmagan
+CUST-00419,Uzmobile,2020,Ha,Past,6,40672,2,Ha,Internet tezligi pastligi
+CUST-00420,Uzmobile,2021,Ha,Past,14,36784,1,Ha,Internet tezligi pastligi
+CUST-00421,Uzmobile,2020,Ha,O'rta,24,61070,1,Yo'q,O'zgartirmagan
+CUST-00422,Uzmobile,2018,Ha,Past,12,31850,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00423,Ucell,2020,Ha,O'rta,44,62939,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00424,Beeline,2023,Ha,Zo'r,62,142863,4,Yo'q,O'zgartirmagan
+CUST-00425,Ucell,2019,Ha,O'rta,28,67194,2,Ha,Tariflar qimmatligi
+CUST-00426,Beeline,2021,Yo'q,Zo'r,62,166214,2,Ha,Tariflar qimmatligi
+CUST-00427,Beeline,2019,Ha,O'rta,31,93756,3,Ha,Internet tezligi pastligi
+CUST-00428,Mobiuz,2020,Ha,Past,3,57051,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00429,Beeline,2018,Ha,O'rta,22,87445,5,Yo'q,O'zgartirmagan
+CUST-00430,Ucell,2020,Ha,O'rta,44,81665,2,Yo'q,O'zgartirmagan
+CUST-00431,Ucell,2021,Ha,O'rta,21,81411,2,Yo'q,O'zgartirmagan
+CUST-00432,Uzmobile,2020,Ha,Past,3,45867,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00433,Uzmobile,2021,Ha,Past,7,44266,3,Yo'q,O'zgartirmagan
+CUST-00434,Ucell,2021,Ha,Zo'r,53,131213,3,Yo'q,O'zgartirmagan
+CUST-00435,Ucell,2023,Ha,Past,9,55854,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00436,Uzmobile,2019,Ha,Zo'r,95,135362,5,Yo'q,O'zgartirmagan
+CUST-00437,Ucell,2020,Ha,Zo'r,49,138285,2,Yo'q,O'zgartirmagan
+CUST-00438,Uzmobile,2019,Ha,Zo'r,74,174755,3,Yo'q,O'zgartirmagan
+CUST-00439,Uzmobile,2023,Yo'q,O'rta,21,96307,4,Yo'q,O'zgartirmagan
+CUST-00440,Ucell,2023,Ha,O'rta,39,79867,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00441,Ucell,2020,Ha,Zo'r,110,106378,1,Ha,Internet tezligi pastligi
+CUST-00442,Mobiuz,2022,Yo'q,Past,7,41422,2,Ha,Internet tezligi pastligi
+CUST-00443,Beeline,2020,Ha,O'rta,37,97679,2,Yo'q,O'zgartirmagan
+CUST-00444,Beeline,2021,Yo'q,O'rta,34,73180,2,Yo'q,O'zgartirmagan
+CUST-00445,Uzmobile,2018,Ha,O'rta,20,96931,1,Yo'q,O'zgartirmagan
+CUST-00446,Mobiuz,2021,Ha,O'rta,29,90936,1,Yo'q,O'zgartirmagan
+CUST-00447,Mobiuz,2018,Ha,Past,2,55734,3,Ha,Tariflar qimmatligi
+CUST-00448,Uzmobile,2022,Ha,O'rta,39,65470,2,Yo'q,O'zgartirmagan
+CUST-00449,Beeline,2021,Ha,Zo'r,56,114953,1,Yo'q,O'zgartirmagan
+CUST-00450,Ucell,2021,Ha,Past,6,35739,2,Ha,Internet tezligi pastligi
+CUST-00451,Uzmobile,2017,Ha,Zo'r,94,106523,4,Yo'q,O'zgartirmagan
+CUST-00452,Beeline,2020,Ha,O'rta,26,91169,4,Yo'q,O'zgartirmagan
+CUST-00453,Beeline,2019,Ha,Zo'r,118,122990,3,Yo'q,O'zgartirmagan
+CUST-00454,Mobiuz,2020,Ha,O'rta,44,73419,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00455,Ucell,2018,Ha,Zo'r,61,176102,5,Yo'q,O'zgartirmagan
+CUST-00456,Beeline,2023,Ha,Past,10,47886,2,Yo'q,O'zgartirmagan
+CUST-00457,Ucell,2020,Ha,Zo'r,78,133477,2,Yo'q,O'zgartirmagan
+CUST-00458,Beeline,2020,Ha,Past,3,49941,2,Ha,Internet tezligi pastligi
+CUST-00459,Ucell,2020,Ha,Zo'r,89,178137,1,Ha,Internet tezligi pastligi
+CUST-00460,Ucell,2020,Ha,Zo'r,95,108061,2,Yo'q,O'zgartirmagan
+CUST-00461,Ucell,2021,Yo'q,Past,3,32603,5,Ha,Internet tezligi pastligi
+CUST-00462,Uzmobile,2020,Ha,Past,7,37857,3,Ha,Boshqa sabab
+CUST-00463,Uzmobile,2022,Yo'q,Zo'r,76,111826,2,Yo'q,O'zgartirmagan
+CUST-00464,Uzmobile,2020,Ha,Past,4,46892,5,Ha,Internet tezligi pastligi
+CUST-00465,Mobiuz,2023,Ha,Zo'r,92,175020,1,Yo'q,O'zgartirmagan
+CUST-00466,Beeline,2022,Ha,Past,9,58481,2,Ha,Tariflar qimmatligi
+CUST-00467,Ucell,2019,Ha,Past,5,49593,3,Ha,Tariflar qimmatligi
+CUST-00468,Mobiuz,2023,Yo'q,Zo'r,61,148773,3,Yo'q,O'zgartirmagan
+CUST-00469,Ucell,2018,Ha,O'rta,33,86569,1,Ha,Internet tezligi pastligi
+CUST-00470,Mobiuz,2022,Ha,Zo'r,53,165242,2,Ha,Tariflar qimmatligi
+CUST-00471,Ucell,2020,Ha,Past,14,40962,3,Yo'q,O'zgartirmagan
+CUST-00472,Mobiuz,2022,Yo'q,O'rta,35,70775,3,Yo'q,O'zgartirmagan
+CUST-00473,Ucell,2022,Yo'q,O'rta,20,63587,3,Yo'q,O'zgartirmagan
+CUST-00474,Mobiuz,2022,Ha,O'rta,38,60954,2,Yo'q,O'zgartirmagan
+CUST-00475,Beeline,2021,Yo'q,O'rta,17,83544,1,Yo'q,O'zgartirmagan
+CUST-00476,Mobiuz,2020,Ha,O'rta,19,93455,2,Yo'q,O'zgartirmagan
+CUST-00477,Ucell,2018,Ha,O'rta,36,75138,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00478,Beeline,2020,Ha,Past,9,53147,5,Ha,Tariflar qimmatligi
+CUST-00479,Mobiuz,2019,Ha,Zo'r,84,168931,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00480,Beeline,2021,Ha,Past,14,42954,2,Ha,Internet tezligi pastligi
+CUST-00481,Uzmobile,2020,Ha,O'rta,20,98672,4,Yo'q,O'zgartirmagan
+CUST-00482,Uzmobile,2023,Yo'q,Past,5,56343,3,Ha,Internet tezligi pastligi
+CUST-00483,Beeline,2021,Ha,O'rta,31,93122,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00484,Uzmobile,2022,Ha,O'rta,31,95585,4,Yo'q,O'zgartirmagan
+CUST-00485,Uzmobile,2018,Ha,Past,10,42467,4,Yo'q,O'zgartirmagan
+CUST-00486,Mobiuz,2022,Yo'q,Past,3,43107,3,Yo'q,O'zgartirmagan
+CUST-00487,Ucell,2023,Ha,Past,13,42458,1,Ha,Internet tezligi pastligi
+CUST-00488,Ucell,2020,Ha,O'rta,41,62581,3,Yo'q,O'zgartirmagan
+CUST-00489,Mobiuz,2021,Yo'q,Zo'r,99,108418,4,Ha,Tariflar qimmatligi
+CUST-00490,Mobiuz,2021,Yo'q,Past,13,59113,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00491,Beeline,2019,Ha,O'rta,26,74419,2,Yo'q,O'zgartirmagan
+CUST-00492,Uzmobile,2020,Ha,Past,8,41814,4,Ha,Internet tezligi pastligi
+CUST-00493,Ucell,2020,Ha,O'rta,27,70024,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00494,Ucell,2018,Ha,Zo'r,101,157836,4,Yo'q,O'zgartirmagan
+CUST-00495,Beeline,2020,Ha,Past,13,31548,3,Yo'q,O'zgartirmagan
+CUST-00496,Beeline,2018,Ha,O'rta,38,65065,2,Ha,Internet tezligi pastligi
+CUST-00497,Uzmobile,2017,Ha,Past,2,52567,1,Yo'q,O'zgartirmagan
+CUST-00498,Ucell,2018,Ha,Past,7,33407,4,Yo'q,O'zgartirmagan
+CUST-00499,Mobiuz,2023,Ha,Past,14,35666,2,Ha,Internet tezligi pastligi
+CUST-00500,Mobiuz,2020,Ha,Past,4,50343,3,Yo'q,O'zgartirmagan
+CUST-00501,Uzmobile,2023,Ha,O'rta,19,70109,3,Yo'q,O'zgartirmagan
+CUST-00502,Beeline,2020,Ha,O'rta,21,94932,3,Yo'q,O'zgartirmagan
+CUST-00503,Beeline,2020,Ha,O'rta,38,86505,5,Yo'q,O'zgartirmagan
+CUST-00504,Uzmobile,2020,Ha,Past,11,51619,3,Yo'q,O'zgartirmagan
+CUST-00505,Uzmobile,2020,Ha,Past,3,37746,2,Ha,Internet tezligi pastligi
+CUST-00506,Ucell,2018,Ha,O'rta,22,75596,5,Yo'q,O'zgartirmagan
+CUST-00507,Mobiuz,2021,Yo'q,Zo'r,115,103880,3,Yo'q,O'zgartirmagan
+CUST-00508,Uzmobile,2019,Ha,Past,5,40680,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00509,Mobiuz,2021,Ha,Zo'r,94,114799,1,Yo'q,O'zgartirmagan
+CUST-00510,Uzmobile,2021,Ha,O'rta,39,99307,4,Ha,Internet tezligi pastligi
+CUST-00511,Uzmobile,2019,Ha,O'rta,21,63990,2,Yo'q,O'zgartirmagan
+CUST-00512,Beeline,2018,Ha,O'rta,41,79073,3,Yo'q,O'zgartirmagan
+CUST-00513,Mobiuz,2021,Yo'q,Past,7,48259,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00514,Mobiuz,2020,Ha,Past,10,49790,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00515,Ucell,2018,Ha,O'rta,42,80316,3,Yo'q,O'zgartirmagan
+CUST-00516,Ucell,2023,Ha,Past,9,58324,1,Ha,Tariflar qimmatligi
+CUST-00517,Beeline,2018,Ha,Zo'r,93,162515,2,Ha,Tariflar qimmatligi
+CUST-00518,Uzmobile,2021,Yo'q,O'rta,15,80245,3,Yo'q,O'zgartirmagan
+CUST-00519,Mobiuz,2023,Ha,Past,3,53790,2,Ha,Tariflar qimmatligi
+CUST-00520,Ucell,2019,Ha,O'rta,19,62833,3,Ha,Internet tezligi pastligi
+CUST-00521,Uzmobile,2018,Ha,Past,7,39589,4,Yo'q,O'zgartirmagan
+CUST-00522,Beeline,2018,Ha,O'rta,35,74116,4,Ha,Tariflar qimmatligi
+CUST-00523,Mobiuz,2020,Ha,O'rta,44,89150,1,Ha,Tariflar qimmatligi
+CUST-00524,Mobiuz,2018,Ha,Zo'r,108,176425,1,Ha,Boshqa sabab
+CUST-00525,Mobiuz,2021,Ha,Zo'r,86,115994,3,Yo'q,O'zgartirmagan
+CUST-00526,Beeline,2018,Ha,O'rta,30,84662,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00527,Beeline,2020,Ha,O'rta,15,86639,4,Yo'q,O'zgartirmagan
+CUST-00528,Ucell,2023,Yo'q,Zo'r,98,156677,4,Yo'q,O'zgartirmagan
+CUST-00529,Ucell,2022,Yo'q,Past,4,37777,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00530,Mobiuz,2021,Ha,Past,13,44849,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00531,Uzmobile,2020,Ha,Past,14,57304,3,Yo'q,O'zgartirmagan
+CUST-00532,Mobiuz,2021,Ha,Past,12,52340,1,Ha,Tariflar qimmatligi
+CUST-00533,Mobiuz,2020,Ha,O'rta,37,73403,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00534,Beeline,2020,Ha,O'rta,35,79091,5,Yo'q,O'zgartirmagan
+CUST-00535,Uzmobile,2018,Ha,O'rta,38,91932,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00536,Mobiuz,2022,Ha,Past,12,33933,2,Ha,Internet tezligi pastligi
+CUST-00537,Mobiuz,2020,Ha,O'rta,40,93690,1,Ha,Boshqa sabab
+CUST-00538,Ucell,2019,Ha,Past,11,40367,5,Ha,Tariflar qimmatligi
+CUST-00539,Beeline,2020,Ha,O'rta,21,93332,3,Yo'q,O'zgartirmagan
+CUST-00540,Ucell,2020,Ha,O'rta,41,70789,3,Yo'q,O'zgartirmagan
+CUST-00541,Mobiuz,2022,Ha,Past,6,50950,5,Ha,Tariflar qimmatligi
+CUST-00542,Uzmobile,2021,Ha,Past,13,36881,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00543,Ucell,2021,Ha,Past,6,52414,3,Ha,Boshqa sabab
+CUST-00544,Uzmobile,2017,Ha,Zo'r,70,147663,1,Ha,Internet tezligi pastligi
+CUST-00545,Uzmobile,2020,Ha,Zo'r,63,124127,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00546,Beeline,2020,Ha,O'rta,43,88853,4,Yo'q,O'zgartirmagan
+CUST-00547,Ucell,2017,Ha,Past,14,31017,4,Ha,Tariflar qimmatligi
+CUST-00548,Uzmobile,2019,Ha,O'rta,33,83590,2,Yo'q,O'zgartirmagan
+CUST-00549,Beeline,2021,Ha,O'rta,18,67170,2,Ha,Internet tezligi pastligi
+CUST-00550,Uzmobile,2018,Ha,Zo'r,108,177852,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00551,Beeline,2020,Ha,Past,5,36240,1,Ha,Tariflar qimmatligi
+CUST-00552,Mobiuz,2019,Ha,Past,7,43753,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00553,Beeline,2017,Ha,O'rta,25,71232,2,Ha,Internet tezligi pastligi
+CUST-00554,Beeline,2019,Ha,O'rta,35,77509,2,Ha,Tariflar qimmatligi
+CUST-00555,Mobiuz,2023,Yo'q,Past,3,45523,4,Yo'q,O'zgartirmagan
+CUST-00556,Beeline,2022,Ha,Past,12,59806,2,Ha,Tariflar qimmatligi
+CUST-00557,Ucell,2023,Yo'q,O'rta,32,86746,1,Yo'q,O'zgartirmagan
+CUST-00558,Ucell,2020,Ha,Zo'r,109,125022,3,Yo'q,O'zgartirmagan
+CUST-00559,Uzmobile,2018,Ha,Zo'r,79,143678,4,Yo'q,O'zgartirmagan
+CUST-00560,Uzmobile,2020,Ha,O'rta,42,95712,2,Yo'q,O'zgartirmagan
+CUST-00561,Uzmobile,2020,Ha,O'rta,39,99978,1,Ha,Tariflar qimmatligi
+CUST-00562,Ucell,2022,Ha,Past,7,38787,2,Ha,Internet tezligi pastligi
+CUST-00563,Ucell,2018,Ha,O'rta,17,70942,3,Yo'q,O'zgartirmagan
+CUST-00564,Ucell,2020,Ha,O'rta,33,72161,3,Yo'q,O'zgartirmagan
+CUST-00565,Beeline,2019,Ha,O'rta,32,89163,4,Ha,Boshqa sabab
+CUST-00566,Uzmobile,2020,Ha,O'rta,43,95775,5,Ha,Tariflar qimmatligi
+CUST-00567,Beeline,2021,Yo'q,Past,11,38772,4,Yo'q,O'zgartirmagan
+CUST-00568,Beeline,2020,Ha,Past,10,58577,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00569,Mobiuz,2020,Ha,Past,13,30229,3,Ha,Tariflar qimmatligi
+CUST-00570,Beeline,2020,Ha,Past,14,45774,1,Ha,Internet tezligi pastligi
+CUST-00571,Beeline,2020,Ha,Past,11,33185,5,Ha,Tariflar qimmatligi
+CUST-00572,Uzmobile,2021,Ha,Zo'r,80,165584,2,Yo'q,O'zgartirmagan
+CUST-00573,Beeline,2022,Yo'q,O'rta,29,75173,1,Yo'q,O'zgartirmagan
+CUST-00574,Uzmobile,2023,Yo'q,O'rta,30,93737,3,Yo'q,O'zgartirmagan
+CUST-00575,Mobiuz,2021,Ha,Zo'r,49,171356,2,Yo'q,O'zgartirmagan
+CUST-00576,Mobiuz,2020,Ha,Zo'r,70,115620,3,Yo'q,O'zgartirmagan
+CUST-00577,Ucell,2021,Yo'q,O'rta,44,80750,3,Yo'q,O'zgartirmagan
+CUST-00578,Mobiuz,2020,Ha,Zo'r,60,109472,2,Ha,Tariflar qimmatligi
+CUST-00579,Beeline,2019,Ha,Past,6,54834,4,Ha,Tariflar qimmatligi
+CUST-00580,Ucell,2022,Yo'q,Past,5,34958,2,Ha,Tariflar qimmatligi
+CUST-00581,Beeline,2017,Ha,O'rta,27,69079,2,Yo'q,O'zgartirmagan
+CUST-00582,Mobiuz,2022,Ha,O'rta,30,87370,3,Yo'q,O'zgartirmagan
+CUST-00583,Beeline,2020,Ha,O'rta,35,76821,3,Ha,Tariflar qimmatligi
+CUST-00584,Beeline,2021,Yo'q,Past,12,33749,4,Yo'q,O'zgartirmagan
+CUST-00585,Uzmobile,2021,Ha,Past,11,44009,2,Ha,Internet tezligi pastligi
+CUST-00586,Ucell,2022,Yo'q,O'rta,44,84570,3,Ha,Tariflar qimmatligi
+CUST-00587,Ucell,2021,Ha,Past,7,41437,1,Ha,Internet tezligi pastligi
+CUST-00588,Ucell,2021,Ha,O'rta,39,64551,5,Yo'q,O'zgartirmagan
+CUST-00589,Ucell,2018,Ha,O'rta,22,72916,2,Yo'q,O'zgartirmagan
+CUST-00590,Ucell,2020,Ha,O'rta,21,75167,3,Ha,Internet tezligi pastligi
+CUST-00591,Ucell,2019,Ha,Zo'r,65,173927,1,Yo'q,O'zgartirmagan
+CUST-00592,Uzmobile,2021,Yo'q,Zo'r,107,167847,2,Yo'q,O'zgartirmagan
+CUST-00593,Ucell,2020,Ha,O'rta,40,73560,3,Yo'q,O'zgartirmagan
+CUST-00594,Beeline,2021,Ha,O'rta,43,98553,4,Yo'q,O'zgartirmagan
+CUST-00595,Mobiuz,2017,Ha,O'rta,24,90492,3,Yo'q,O'zgartirmagan
+CUST-00596,Beeline,2018,Ha,Past,7,54143,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00597,Uzmobile,2021,Ha,Past,5,53916,3,Yo'q,O'zgartirmagan
+CUST-00598,Ucell,2018,Ha,Past,7,38740,3,Ha,Tariflar qimmatligi
+CUST-00599,Ucell,2018,Ha,O'rta,36,63815,1,Yo'q,O'zgartirmagan
+CUST-00600,Ucell,2017,Ha,O'rta,43,97477,4,Yo'q,O'zgartirmagan
+CUST-00601,Ucell,2023,Ha,Zo'r,72,170309,2,Yo'q,O'zgartirmagan
+CUST-00602,Ucell,2021,Yo'q,Past,6,40464,4,Yo'q,O'zgartirmagan
+CUST-00603,Ucell,2020,Ha,Past,10,51576,5,Yo'q,O'zgartirmagan
+CUST-00604,Ucell,2019,Ha,Zo'r,73,138826,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00605,Ucell,2020,Ha,Past,13,57867,3,Ha,Tariflar qimmatligi
+CUST-00606,Beeline,2021,Yo'q,O'rta,22,60726,3,Yo'q,O'zgartirmagan
+CUST-00607,Ucell,2021,Yo'q,O'rta,43,66697,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00608,Beeline,2019,Ha,O'rta,21,72963,1,Yo'q,O'zgartirmagan
+CUST-00609,Beeline,2019,Ha,Past,10,46666,3,Ha,Tariflar qimmatligi
+CUST-00610,Uzmobile,2018,Ha,Past,11,50269,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00611,Ucell,2021,Ha,Past,3,40776,3,Ha,Internet tezligi pastligi
+CUST-00612,Uzmobile,2021,Ha,O'rta,23,74196,1,Yo'q,O'zgartirmagan
+CUST-00613,Uzmobile,2019,Ha,O'rta,41,75958,1,Yo'q,O'zgartirmagan
+CUST-00614,Ucell,2017,Ha,Past,11,41689,2,Ha,Boshqa sabab
+CUST-00615,Mobiuz,2018,Ha,O'rta,34,97528,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00616,Mobiuz,2023,Ha,Zo'r,98,178972,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00617,Ucell,2019,Ha,Past,4,55212,1,Ha,Internet tezligi pastligi
+CUST-00618,Ucell,2021,Ha,O'rta,40,93332,3,Yo'q,O'zgartirmagan
+CUST-00619,Uzmobile,2021,Ha,O'rta,16,85401,1,Yo'q,O'zgartirmagan
+CUST-00620,Uzmobile,2020,Ha,Past,11,43393,3,Ha,Internet tezligi pastligi
+CUST-00621,Ucell,2019,Ha,Past,8,55601,3,Ha,Internet tezligi pastligi
+CUST-00622,Ucell,2018,Ha,O'rta,26,93572,3,Yo'q,O'zgartirmagan
+CUST-00623,Beeline,2021,Ha,Zo'r,64,109583,3,Ha,Internet tezligi pastligi
+CUST-00624,Beeline,2021,Ha,Zo'r,109,112224,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00625,Uzmobile,2021,Ha,O'rta,31,98784,4,Yo'q,O'zgartirmagan
+CUST-00626,Beeline,2020,Ha,O'rta,35,89299,2,Yo'q,O'zgartirmagan
+CUST-00627,Beeline,2017,Ha,O'rta,27,79933,3,Yo'q,O'zgartirmagan
+CUST-00628,Uzmobile,2023,Ha,O'rta,23,67938,3,Yo'q,O'zgartirmagan
+CUST-00629,Ucell,2021,Ha,O'rta,28,83350,1,Yo'q,O'zgartirmagan
+CUST-00630,Ucell,2019,Ha,Past,12,35335,3,Ha,Internet tezligi pastligi
+CUST-00631,Uzmobile,2023,Ha,O'rta,36,65611,3,Ha,Internet tezligi pastligi
+CUST-00632,Mobiuz,2021,Ha,O'rta,27,95660,2,Ha,Internet tezligi pastligi
+CUST-00633,Beeline,2020,Ha,O'rta,15,65577,1,Yo'q,O'zgartirmagan
+CUST-00634,Beeline,2021,Ha,Zo'r,79,150711,1,Yo'q,O'zgartirmagan
+CUST-00635,Ucell,2022,Ha,Past,13,31507,5,Yo'q,O'zgartirmagan
+CUST-00636,Beeline,2021,Ha,Past,9,32063,3,Ha,Internet tezligi pastligi
+CUST-00637,Beeline,2018,Ha,Past,12,32000,1,Ha,Internet tezligi pastligi
+CUST-00638,Ucell,2020,Ha,Zo'r,98,166830,2,Yo'q,O'zgartirmagan
+CUST-00639,Ucell,2023,Ha,O'rta,39,96833,3,Yo'q,O'zgartirmagan
+CUST-00640,Beeline,2019,Ha,Past,12,57328,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00641,Ucell,2020,Ha,O'rta,29,77706,1,Yo'q,O'zgartirmagan
+CUST-00642,Beeline,2020,Ha,O'rta,19,78825,2,Ha,Tariflar qimmatligi
+CUST-00643,Ucell,2020,Ha,Zo'r,119,154225,4,Yo'q,O'zgartirmagan
+CUST-00644,Beeline,2021,Ha,O'rta,16,69318,1,Yo'q,O'zgartirmagan
+CUST-00645,Ucell,2023,Yo'q,O'rta,23,75574,2,Ha,Internet tezligi pastligi
+CUST-00646,Mobiuz,2019,Ha,Zo'r,115,114650,5,Yo'q,O'zgartirmagan
+CUST-00647,Uzmobile,2018,Ha,Past,8,58930,3,Ha,Tariflar qimmatligi
+CUST-00648,Uzmobile,2019,Ha,Past,13,32096,2,Ha,Tariflar qimmatligi
+CUST-00649,Uzmobile,2022,Ha,O'rta,40,82372,1,Ha,Internet tezligi pastligi
+CUST-00650,Beeline,2021,Ha,Zo'r,92,132334,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00651,Ucell,2019,Ha,O'rta,16,73288,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00652,Beeline,2022,Ha,Past,8,42191,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00653,Uzmobile,2022,Ha,Past,5,58947,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00654,Uzmobile,2022,Ha,O'rta,32,85251,3,Yo'q,O'zgartirmagan
+CUST-00655,Beeline,2022,Ha,Past,13,47740,5,Ha,Internet tezligi pastligi
+CUST-00656,Ucell,2019,Ha,O'rta,15,79643,2,Ha,Boshqa sabab
+CUST-00657,Ucell,2021,Ha,Zo'r,100,140733,1,Yo'q,O'zgartirmagan
+CUST-00658,Beeline,2020,Ha,O'rta,36,78467,3,Yo'q,O'zgartirmagan
+CUST-00659,Uzmobile,2022,Ha,O'rta,39,61752,5,Yo'q,O'zgartirmagan
+CUST-00660,Beeline,2021,Yo'q,O'rta,30,61849,4,Yo'q,O'zgartirmagan
+CUST-00661,Beeline,2021,Ha,Past,4,31600,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00662,Mobiuz,2021,Ha,Zo'r,113,144565,3,Yo'q,O'zgartirmagan
+CUST-00663,Uzmobile,2019,Ha,O'rta,38,61132,3,Yo'q,O'zgartirmagan
+CUST-00664,Ucell,2020,Ha,O'rta,34,91076,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00665,Ucell,2023,Ha,O'rta,35,98563,1,Yo'q,O'zgartirmagan
+CUST-00666,Ucell,2023,Ha,O'rta,18,70931,3,Yo'q,O'zgartirmagan
+CUST-00667,Ucell,2017,Ha,O'rta,35,67633,4,Yo'q,O'zgartirmagan
+CUST-00668,Ucell,2019,Ha,Past,3,47871,2,Ha,Internet tezligi pastligi
+CUST-00669,Ucell,2018,Ha,Zo'r,85,158901,3,Yo'q,O'zgartirmagan
+CUST-00670,Ucell,2021,Ha,Zo'r,110,101044,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00671,Ucell,2022,Yo'q,O'rta,18,95199,2,Yo'q,O'zgartirmagan
+CUST-00672,Mobiuz,2019,Ha,Zo'r,88,146694,2,Yo'q,O'zgartirmagan
+CUST-00673,Ucell,2020,Ha,Past,8,31308,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00674,Beeline,2022,Ha,O'rta,36,68793,2,Yo'q,O'zgartirmagan
+CUST-00675,Beeline,2021,Ha,O'rta,35,89883,3,Yo'q,O'zgartirmagan
+CUST-00676,Mobiuz,2020,Ha,O'rta,33,97960,3,Yo'q,O'zgartirmagan
+CUST-00677,Ucell,2020,Ha,O'rta,28,82259,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00678,Beeline,2020,Ha,Past,12,54416,3,Yo'q,O'zgartirmagan
+CUST-00679,Mobiuz,2019,Ha,Past,4,50409,3,Ha,Internet tezligi pastligi
+CUST-00680,Mobiuz,2020,Ha,O'rta,21,66073,4,Yo'q,O'zgartirmagan
+CUST-00681,Uzmobile,2021,Yo'q,Past,4,40195,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00682,Ucell,2022,Yo'q,O'rta,16,77138,3,Yo'q,O'zgartirmagan
+CUST-00683,Ucell,2021,Ha,Past,10,56834,1,Ha,Boshqa sabab
+CUST-00684,Uzmobile,2021,Ha,Past,12,37396,5,Yo'q,O'zgartirmagan
+CUST-00685,Mobiuz,2019,Ha,O'rta,32,84207,1,Yo'q,O'zgartirmagan
+CUST-00686,Beeline,2020,Ha,O'rta,18,80619,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00687,Beeline,2017,Ha,Zo'r,73,124845,2,Ha,Tariflar qimmatligi
+CUST-00688,Ucell,2019,Ha,O'rta,37,97899,5,Yo'q,O'zgartirmagan
+CUST-00689,Uzmobile,2021,Ha,Past,4,58036,3,Yo'q,O'zgartirmagan
+CUST-00690,Ucell,2023,Ha,Zo'r,76,168681,4,Yo'q,O'zgartirmagan
+CUST-00691,Beeline,2018,Ha,O'rta,25,90544,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00692,Beeline,2020,Ha,Past,6,43100,2,Ha,Tariflar qimmatligi
+CUST-00693,Beeline,2022,Ha,O'rta,24,80104,3,Yo'q,O'zgartirmagan
+CUST-00694,Ucell,2019,Ha,Zo'r,93,169603,4,Yo'q,O'zgartirmagan
+CUST-00695,Ucell,2020,Ha,O'rta,18,90728,1,Ha,Tariflar qimmatligi
+CUST-00696,Uzmobile,2021,Ha,Past,10,39244,5,Yo'q,O'zgartirmagan
+CUST-00697,Ucell,2021,Yo'q,Past,14,37281,4,Ha,Tariflar qimmatligi
+CUST-00698,Uzmobile,2019,Ha,Past,10,45502,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00699,Ucell,2020,Ha,O'rta,20,74670,4,Yo'q,O'zgartirmagan
+CUST-00700,Beeline,2021,Ha,O'rta,43,98328,3,Yo'q,O'zgartirmagan
+CUST-00701,Beeline,2020,Ha,Past,2,53723,3,Ha,Internet tezligi pastligi
+CUST-00702,Ucell,2017,Ha,Zo'r,119,126498,2,Ha,Tariflar qimmatligi
+CUST-00703,Beeline,2021,Yo'q,Zo'r,106,145929,3,Yo'q,O'zgartirmagan
+CUST-00704,Ucell,2017,Ha,O'rta,20,86028,3,Yo'q,O'zgartirmagan
+CUST-00705,Ucell,2021,Ha,Zo'r,102,130974,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00706,Mobiuz,2019,Ha,Past,5,53097,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00707,Beeline,2023,Yo'q,O'rta,30,87608,3,Yo'q,O'zgartirmagan
+CUST-00708,Uzmobile,2020,Ha,O'rta,39,83525,3,Yo'q,O'zgartirmagan
+CUST-00709,Ucell,2020,Ha,Zo'r,112,141846,1,Yo'q,O'zgartirmagan
+CUST-00710,Uzmobile,2018,Ha,Zo'r,96,153028,4,Yo'q,O'zgartirmagan
+CUST-00711,Uzmobile,2020,Ha,Past,9,59483,3,Yo'q,O'zgartirmagan
+CUST-00712,Uzmobile,2022,Ha,Zo'r,49,115733,2,Yo'q,O'zgartirmagan
+CUST-00713,Beeline,2023,Yo'q,Past,6,55502,2,Ha,Tariflar qimmatligi
+CUST-00714,Beeline,2020,Ha,Zo'r,89,109247,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00715,Beeline,2020,Ha,Zo'r,77,165149,4,Yo'q,O'zgartirmagan
+CUST-00716,Mobiuz,2021,Yo'q,Past,4,46925,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00717,Mobiuz,2022,Yo'q,O'rta,32,78635,3,Yo'q,O'zgartirmagan
+CUST-00718,Mobiuz,2020,Ha,Past,14,50953,1,Ha,Internet tezligi pastligi
+CUST-00719,Ucell,2020,Ha,O'rta,39,72061,3,Yo'q,O'zgartirmagan
+CUST-00720,Uzmobile,2020,Ha,O'rta,23,66041,5,Ha,Tariflar qimmatligi
+CUST-00721,Mobiuz,2021,Ha,O'rta,16,81059,4,Yo'q,O'zgartirmagan
+CUST-00722,Ucell,2017,Ha,Zo'r,69,144722,2,Yo'q,O'zgartirmagan
+CUST-00723,Ucell,2021,Ha,O'rta,27,75078,3,Yo'q,O'zgartirmagan
+CUST-00724,Uzmobile,2020,Ha,O'rta,26,95490,2,Yo'q,O'zgartirmagan
+CUST-00725,Beeline,2021,Yo'q,Zo'r,99,158760,2,Ha,Internet tezligi pastligi
+CUST-00726,Mobiuz,2018,Ha,Zo'r,46,101468,4,Yo'q,O'zgartirmagan
+CUST-00727,Ucell,2020,Ha,Past,7,30808,4,Yo'q,O'zgartirmagan
+CUST-00728,Uzmobile,2020,Ha,Zo'r,88,172255,2,Ha,Internet tezligi pastligi
+CUST-00729,Ucell,2021,Yo'q,Past,13,58718,5,Ha,Tariflar qimmatligi
+CUST-00730,Ucell,2018,Ha,Zo'r,46,137841,3,Yo'q,O'zgartirmagan
+CUST-00731,Ucell,2020,Ha,Past,14,48029,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00732,Uzmobile,2020,Ha,Past,6,38249,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00733,Uzmobile,2020,Ha,O'rta,24,60767,3,Ha,Internet tezligi pastligi
+CUST-00734,Beeline,2021,Ha,O'rta,38,75332,3,Yo'q,O'zgartirmagan
+CUST-00735,Beeline,2021,Ha,O'rta,44,71334,3,Ha,Internet tezligi pastligi
+CUST-00736,Mobiuz,2022,Ha,Past,7,30885,3,Yo'q,O'zgartirmagan
+CUST-00737,Beeline,2019,Ha,O'rta,37,96674,1,Yo'q,O'zgartirmagan
+CUST-00738,Uzmobile,2022,Yo'q,Zo'r,57,142498,4,Yo'q,O'zgartirmagan
+CUST-00739,Beeline,2020,Ha,O'rta,40,66269,3,Yo'q,O'zgartirmagan
+CUST-00740,Beeline,2018,Ha,Past,9,51701,1,Ha,Tariflar qimmatligi
+CUST-00741,Beeline,2018,Ha,O'rta,25,86811,4,Yo'q,O'zgartirmagan
+CUST-00742,Beeline,2020,Ha,Past,11,57433,5,Yo'q,O'zgartirmagan
+CUST-00743,Uzmobile,2021,Ha,Zo'r,110,176298,5,Yo'q,O'zgartirmagan
+CUST-00744,Beeline,2021,Ha,Zo'r,62,102147,2,Yo'q,O'zgartirmagan
+CUST-00745,Ucell,2021,Ha,O'rta,22,93715,1,Yo'q,O'zgartirmagan
+CUST-00746,Mobiuz,2020,Ha,O'rta,28,62013,3,Yo'q,O'zgartirmagan
+CUST-00747,Beeline,2020,Ha,Zo'r,74,109479,1,Yo'q,O'zgartirmagan
+CUST-00748,Beeline,2018,Ha,O'rta,16,81304,5,Yo'q,O'zgartirmagan
+CUST-00749,Mobiuz,2020,Ha,Zo'r,117,109490,1,Ha,Tariflar qimmatligi
+CUST-00750,Uzmobile,2020,Ha,O'rta,19,99754,2,Ha,Internet tezligi pastligi
+CUST-00751,Ucell,2018,Ha,Zo'r,116,110450,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00752,Mobiuz,2019,Ha,O'rta,37,94841,2,Yo'q,O'zgartirmagan
+CUST-00753,Uzmobile,2020,Ha,O'rta,41,91826,4,Yo'q,O'zgartirmagan
+CUST-00754,Beeline,2021,Ha,Zo'r,94,172361,3,Yo'q,O'zgartirmagan
+CUST-00755,Ucell,2023,Ha,O'rta,43,72454,1,Yo'q,O'zgartirmagan
+CUST-00756,Uzmobile,2023,Ha,O'rta,42,80648,2,Yo'q,O'zgartirmagan
+CUST-00757,Uzmobile,2021,Yo'q,Past,2,54530,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00758,Beeline,2020,Ha,O'rta,19,68558,1,Ha,Tariflar qimmatligi
+CUST-00759,Mobiuz,2021,Yo'q,O'rta,30,64886,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00760,Uzmobile,2021,Ha,Past,8,58185,3,Yo'q,O'zgartirmagan
+CUST-00761,Ucell,2018,Ha,Past,13,51575,3,Ha,Internet tezligi pastligi
+CUST-00762,Beeline,2020,Ha,O'rta,19,99643,5,Yo'q,O'zgartirmagan
+CUST-00763,Ucell,2022,Ha,Zo'r,113,107856,5,Yo'q,O'zgartirmagan
+CUST-00764,Uzmobile,2020,Ha,O'rta,40,88804,5,Yo'q,O'zgartirmagan
+CUST-00765,Ucell,2020,Ha,Past,7,33022,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00766,Beeline,2020,Ha,O'rta,27,70912,1,Ha,Tariflar qimmatligi
+CUST-00767,Uzmobile,2019,Ha,Past,12,45126,2,Ha,Internet tezligi pastligi
+CUST-00768,Mobiuz,2020,Ha,O'rta,15,61770,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00769,Beeline,2020,Ha,Past,3,39969,5,Ha,Tariflar qimmatligi
+CUST-00770,Uzmobile,2017,Ha,Past,6,38989,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00771,Ucell,2017,Ha,Past,11,33215,1,Yo'q,O'zgartirmagan
+CUST-00772,Mobiuz,2022,Ha,O'rta,27,99462,5,Yo'q,O'zgartirmagan
+CUST-00773,Ucell,2019,Ha,Past,2,50121,2,Ha,Internet tezligi pastligi
+CUST-00774,Beeline,2020,Ha,O'rta,30,94160,1,Ha,Internet tezligi pastligi
+CUST-00775,Uzmobile,2019,Ha,O'rta,20,87181,2,Yo'q,O'zgartirmagan
+CUST-00776,Ucell,2023,Ha,O'rta,32,77061,1,Ha,Internet tezligi pastligi
+CUST-00777,Ucell,2019,Ha,O'rta,24,81137,3,Yo'q,O'zgartirmagan
+CUST-00778,Uzmobile,2020,Ha,Zo'r,71,105544,2,Yo'q,O'zgartirmagan
+CUST-00779,Uzmobile,2022,Yo'q,Past,9,43275,3,Ha,Tariflar qimmatligi
+CUST-00780,Uzmobile,2022,Ha,O'rta,24,94550,3,Yo'q,O'zgartirmagan
+CUST-00781,Uzmobile,2019,Ha,Past,14,49641,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00782,Beeline,2022,Ha,Past,7,56573,3,Yo'q,O'zgartirmagan
+CUST-00783,Ucell,2020,Ha,O'rta,36,75605,2,Ha,Internet tezligi pastligi
+CUST-00784,Beeline,2020,Ha,O'rta,20,80390,4,Yo'q,O'zgartirmagan
+CUST-00785,Ucell,2018,Ha,Zo'r,56,158466,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00786,Mobiuz,2018,Ha,O'rta,28,69493,1,Yo'q,O'zgartirmagan
+CUST-00787,Uzmobile,2021,Ha,Zo'r,95,171318,3,Yo'q,O'zgartirmagan
+CUST-00788,Beeline,2020,Ha,Past,8,59799,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00789,Beeline,2020,Ha,Past,3,46984,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00790,Mobiuz,2021,Yo'q,Past,14,43012,3,Yo'q,O'zgartirmagan
+CUST-00791,Ucell,2021,Ha,Past,10,55993,4,Yo'q,O'zgartirmagan
+CUST-00792,Uzmobile,2019,Ha,O'rta,35,86120,1,Ha,Tariflar qimmatligi
+CUST-00793,Beeline,2021,Yo'q,O'rta,29,95891,4,Yo'q,O'zgartirmagan
+CUST-00794,Uzmobile,2018,Ha,Past,3,37064,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00795,Ucell,2021,Ha,Zo'r,57,173953,5,Yo'q,O'zgartirmagan
+CUST-00796,Mobiuz,2021,Ha,Zo'r,95,166745,2,Yo'q,O'zgartirmagan
+CUST-00797,Mobiuz,2023,Yo'q,Past,3,34898,5,Ha,Tariflar qimmatligi
+CUST-00798,Beeline,2018,Ha,Past,7,48562,2,Yo'q,O'zgartirmagan
+CUST-00799,Uzmobile,2018,Ha,Past,11,40871,3,Ha,Tariflar qimmatligi
+CUST-00800,Mobiuz,2019,Ha,Past,12,41077,1,Ha,Internet tezligi pastligi
+CUST-00801,Uzmobile,2019,Ha,Past,8,45791,1,Ha,Internet tezligi pastligi
+CUST-00802,Ucell,2019,Ha,O'rta,31,98290,3,Yo'q,O'zgartirmagan
+CUST-00803,Beeline,2022,Ha,Past,4,49665,2,Ha,Internet tezligi pastligi
+CUST-00804,Uzmobile,2019,Ha,O'rta,21,60328,2,Yo'q,O'zgartirmagan
+CUST-00805,Beeline,2019,Ha,Zo'r,49,145890,1,Yo'q,O'zgartirmagan
+CUST-00806,Uzmobile,2021,Yo'q,O'rta,25,92888,3,Yo'q,O'zgartirmagan
+CUST-00807,Mobiuz,2020,Ha,Zo'r,112,120608,1,Yo'q,O'zgartirmagan
+CUST-00808,Mobiuz,2021,Yo'q,Past,12,33675,4,Yo'q,O'zgartirmagan
+CUST-00809,Beeline,2018,Ha,O'rta,43,98411,1,Ha,Tariflar qimmatligi
+CUST-00810,Ucell,2020,Ha,O'rta,27,71560,1,Ha,Internet tezligi pastligi
+CUST-00811,Mobiuz,2017,Ha,Past,3,47700,2,Ha,Internet tezligi pastligi
+CUST-00812,Mobiuz,2018,Ha,Past,14,45383,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00813,Ucell,2022,Ha,O'rta,17,93123,2,Ha,Internet tezligi pastligi
+CUST-00814,Mobiuz,2018,Ha,O'rta,25,69718,2,Ha,Internet tezligi pastligi
+CUST-00815,Mobiuz,2020,Ha,O'rta,40,60028,5,Yo'q,O'zgartirmagan
+CUST-00816,Beeline,2020,Ha,O'rta,17,77397,3,Yo'q,O'zgartirmagan
+CUST-00817,Uzmobile,2020,Ha,O'rta,29,62024,1,Ha,Internet tezligi pastligi
+CUST-00818,Beeline,2022,Ha,Past,12,35839,2,Yo'q,O'zgartirmagan
+CUST-00819,Ucell,2017,Ha,Past,11,58592,4,Yo'q,O'zgartirmagan
+CUST-00820,Beeline,2021,Yo'q,Past,4,55345,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00821,Uzmobile,2023,Ha,Past,9,47622,1,Ha,Internet tezligi pastligi
+CUST-00822,Ucell,2020,Ha,Zo'r,110,159557,4,Yo'q,O'zgartirmagan
+CUST-00823,Beeline,2023,Ha,O'rta,33,67961,3,Yo'q,O'zgartirmagan
+CUST-00824,Beeline,2018,Ha,O'rta,43,72031,3,Ha,Tariflar qimmatligi
+CUST-00825,Beeline,2020,Ha,Past,10,45663,1,Ha,Tariflar qimmatligi
+CUST-00826,Mobiuz,2019,Ha,O'rta,15,94228,1,Yo'q,O'zgartirmagan
+CUST-00827,Beeline,2021,Ha,Past,4,54053,3,Yo'q,O'zgartirmagan
+CUST-00828,Beeline,2023,Ha,Past,11,58561,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00829,Uzmobile,2019,Ha,Past,10,41045,3,Yo'q,O'zgartirmagan
+CUST-00830,Beeline,2021,Ha,Zo'r,65,129504,3,Ha,Tariflar qimmatligi
+CUST-00831,Ucell,2019,Ha,O'rta,35,97146,2,Yo'q,O'zgartirmagan
+CUST-00832,Beeline,2020,Ha,O'rta,24,80858,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00833,Ucell,2020,Ha,O'rta,20,63071,4,Ha,Internet tezligi pastligi
+CUST-00834,Ucell,2023,Ha,Zo'r,88,150715,3,Yo'q,O'zgartirmagan
+CUST-00835,Beeline,2021,Ha,Past,14,31040,1,Ha,Internet tezligi pastligi
+CUST-00836,Beeline,2020,Ha,Past,12,59351,1,Ha,Internet tezligi pastligi
+CUST-00837,Mobiuz,2018,Ha,Past,11,31779,3,Yo'q,O'zgartirmagan
+CUST-00838,Beeline,2019,Ha,Zo'r,47,116459,1,Ha,Internet tezligi pastligi
+CUST-00839,Uzmobile,2019,Ha,Zo'r,110,160663,5,Yo'q,O'zgartirmagan
+CUST-00840,Uzmobile,2019,Ha,Past,7,32262,1,Yo'q,O'zgartirmagan
+CUST-00841,Ucell,2022,Ha,Zo'r,74,105188,3,Yo'q,O'zgartirmagan
+CUST-00842,Uzmobile,2020,Ha,Zo'r,110,160119,2,Ha,Internet tezligi pastligi
+CUST-00843,Ucell,2020,Ha,Past,2,52950,3,Ha,Internet tezligi pastligi
+CUST-00844,Mobiuz,2018,Ha,O'rta,44,65796,1,Ha,Tariflar qimmatligi
+CUST-00845,Ucell,2022,Yo'q,O'rta,33,99131,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00846,Beeline,2021,Ha,Zo'r,104,108222,2,Ha,Internet tezligi pastligi
+CUST-00847,Ucell,2018,Ha,Past,12,43654,4,Yo'q,O'zgartirmagan
+CUST-00848,Mobiuz,2021,Ha,Zo'r,46,136839,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00849,Beeline,2020,Ha,Past,10,59210,5,Yo'q,O'zgartirmagan
+CUST-00850,Uzmobile,2018,Ha,O'rta,17,93638,4,Ha,Internet tezligi pastligi
+CUST-00851,Ucell,2020,Ha,O'rta,19,85988,2,Yo'q,O'zgartirmagan
+CUST-00852,Uzmobile,2020,Ha,O'rta,34,93708,4,Yo'q,O'zgartirmagan
+CUST-00853,Ucell,2019,Ha,Zo'r,64,123806,1,Ha,Internet tezligi pastligi
+CUST-00854,Mobiuz,2023,Ha,Zo'r,105,136901,5,Yo'q,O'zgartirmagan
+CUST-00855,Ucell,2022,Ha,Zo'r,64,175761,3,Yo'q,O'zgartirmagan
+CUST-00856,Ucell,2021,Ha,Past,10,33457,2,Ha,Tariflar qimmatligi
+CUST-00857,Ucell,2020,Ha,O'rta,39,69241,2,Yo'q,O'zgartirmagan
+CUST-00858,Beeline,2020,Ha,Past,7,39896,1,Ha,Internet tezligi pastligi
+CUST-00859,Beeline,2021,Ha,O'rta,39,81826,5,Yo'q,O'zgartirmagan
+CUST-00860,Ucell,2020,Ha,O'rta,15,93586,1,Yo'q,O'zgartirmagan
+CUST-00861,Uzmobile,2018,Ha,O'rta,19,76396,3,Yo'q,O'zgartirmagan
+CUST-00862,Beeline,2020,Ha,O'rta,33,72171,2,Ha,Internet tezligi pastligi
+CUST-00863,Beeline,2022,Ha,Zo'r,92,133688,5,Yo'q,O'zgartirmagan
+CUST-00864,Beeline,2020,Ha,Past,10,48802,2,Ha,Tariflar qimmatligi
+CUST-00865,Beeline,2018,Ha,O'rta,17,99243,3,Yo'q,O'zgartirmagan
+CUST-00866,Beeline,2021,Ha,O'rta,44,90980,3,Yo'q,O'zgartirmagan
+CUST-00867,Ucell,2019,Ha,Past,3,37957,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00868,Ucell,2019,Ha,Past,8,39420,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00869,Mobiuz,2019,Ha,Zo'r,101,155982,1,Ha,Internet tezligi pastligi
+CUST-00870,Mobiuz,2020,Ha,Zo'r,98,151586,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00871,Beeline,2021,Ha,Zo'r,97,110707,3,Yo'q,O'zgartirmagan
+CUST-00872,Ucell,2020,Ha,Zo'r,75,103543,1,Yo'q,O'zgartirmagan
+CUST-00873,Uzmobile,2019,Ha,Past,9,48165,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00874,Beeline,2022,Ha,O'rta,15,99111,2,Yo'q,O'zgartirmagan
+CUST-00875,Ucell,2022,Yo'q,O'rta,38,60211,4,Ha,Tariflar qimmatligi
+CUST-00876,Ucell,2022,Yo'q,O'rta,42,99795,5,Yo'q,O'zgartirmagan
+CUST-00877,Uzmobile,2019,Ha,O'rta,26,83244,3,Yo'q,O'zgartirmagan
+CUST-00878,Uzmobile,2020,Ha,O'rta,27,68169,2,Yo'q,O'zgartirmagan
+CUST-00879,Ucell,2023,Ha,O'rta,21,82104,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00880,Ucell,2021,Yo'q,O'rta,28,74591,1,Ha,Tariflar qimmatligi
+CUST-00881,Ucell,2017,Ha,Past,9,51359,2,Yo'q,O'zgartirmagan
+CUST-00882,Uzmobile,2018,Ha,O'rta,29,96011,3,Yo'q,O'zgartirmagan
+CUST-00883,Ucell,2020,Ha,O'rta,23,97863,3,Yo'q,O'zgartirmagan
+CUST-00884,Ucell,2022,Yo'q,O'rta,32,82998,5,Yo'q,O'zgartirmagan
+CUST-00885,Uzmobile,2020,Ha,Past,3,57323,2,Ha,Internet tezligi pastligi
+CUST-00886,Ucell,2020,Ha,O'rta,41,83519,3,Yo'q,O'zgartirmagan
+CUST-00887,Uzmobile,2018,Ha,Past,3,31550,3,Ha,Tariflar qimmatligi
+CUST-00888,Ucell,2021,Yo'q,O'rta,18,88656,3,Yo'q,O'zgartirmagan
+CUST-00889,Ucell,2022,Yo'q,Zo'r,107,128840,2,Yo'q,O'zgartirmagan
+CUST-00890,Ucell,2020,Ha,O'rta,24,83831,3,Yo'q,O'zgartirmagan
+CUST-00891,Uzmobile,2021,Ha,Past,3,35424,3,Ha,Tariflar qimmatligi
+CUST-00892,Mobiuz,2023,Yo'q,O'rta,32,74086,3,Yo'q,O'zgartirmagan
+CUST-00893,Mobiuz,2019,Ha,O'rta,18,95929,5,Ha,Tariflar qimmatligi
+CUST-00894,Beeline,2020,Ha,Zo'r,113,120539,2,Yo'q,O'zgartirmagan
+CUST-00895,Uzmobile,2019,Ha,O'rta,37,85103,1,Ha,Tariflar qimmatligi
+CUST-00896,Ucell,2021,Ha,O'rta,17,69215,3,Yo'q,O'zgartirmagan
+CUST-00897,Ucell,2020,Ha,O'rta,40,82044,3,Yo'q,O'zgartirmagan
+CUST-00898,Mobiuz,2021,Ha,Past,8,45092,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00899,Ucell,2021,Ha,Past,2,46160,4,Yo'q,O'zgartirmagan
+CUST-00900,Ucell,2020,Ha,O'rta,39,84340,5,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00901,Ucell,2022,Ha,O'rta,31,87626,5,Yo'q,O'zgartirmagan
+CUST-00902,Ucell,2020,Ha,O'rta,31,95001,1,Yo'q,O'zgartirmagan
+CUST-00903,Ucell,2019,Ha,Past,14,41027,4,Yo'q,O'zgartirmagan
+CUST-00904,Uzmobile,2021,Ha,Past,4,37860,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00905,Beeline,2021,Ha,O'rta,21,98327,3,Yo'q,O'zgartirmagan
+CUST-00906,Mobiuz,2020,Ha,Past,14,32513,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00907,Uzmobile,2022,Ha,O'rta,37,74781,4,Yo'q,O'zgartirmagan
+CUST-00908,Beeline,2022,Ha,Past,2,37910,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00909,Ucell,2019,Ha,O'rta,22,65649,2,Yo'q,O'zgartirmagan
+CUST-00910,Beeline,2023,Ha,Zo'r,117,174656,3,Yo'q,O'zgartirmagan
+CUST-00911,Uzmobile,2018,Ha,Past,14,40165,3,Yo'q,O'zgartirmagan
+CUST-00912,Ucell,2019,Ha,O'rta,31,69746,1,Ha,Internet tezligi pastligi
+CUST-00913,Uzmobile,2019,Ha,Past,12,58997,5,Ha,Internet tezligi pastligi
+CUST-00914,Beeline,2022,Ha,O'rta,17,84183,3,Yo'q,O'zgartirmagan
+CUST-00915,Beeline,2021,Ha,O'rta,19,87169,3,Yo'q,O'zgartirmagan
+CUST-00916,Beeline,2019,Ha,O'rta,34,89592,1,Ha,Tariflar qimmatligi
+CUST-00917,Ucell,2020,Ha,O'rta,18,80823,3,Yo'q,O'zgartirmagan
+CUST-00918,Mobiuz,2021,Ha,Zo'r,55,166394,1,Yo'q,O'zgartirmagan
+CUST-00919,Uzmobile,2018,Ha,Past,11,55020,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00920,Ucell,2022,Yo'q,Past,14,34317,3,Yo'q,O'zgartirmagan
+CUST-00921,Mobiuz,2022,Ha,Zo'r,51,146073,2,Ha,Tariflar qimmatligi
+CUST-00922,Beeline,2020,Ha,O'rta,30,61447,3,Yo'q,O'zgartirmagan
+CUST-00923,Mobiuz,2023,Yo'q,Zo'r,56,102850,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00924,Uzmobile,2020,Ha,O'rta,31,71953,2,Ha,Internet tezligi pastligi
+CUST-00925,Beeline,2023,Yo'q,Zo'r,87,123535,1,Yo'q,O'zgartirmagan
+CUST-00926,Ucell,2021,Yo'q,O'rta,31,69503,5,Yo'q,O'zgartirmagan
+CUST-00927,Ucell,2021,Yo'q,O'rta,23,75493,3,Yo'q,O'zgartirmagan
+CUST-00928,Beeline,2019,Ha,Zo'r,71,128251,3,Yo'q,O'zgartirmagan
+CUST-00929,Uzmobile,2022,Ha,O'rta,35,64924,2,Yo'q,O'zgartirmagan
+CUST-00930,Ucell,2020,Ha,Past,7,42546,1,Yo'q,O'zgartirmagan
+CUST-00931,Ucell,2019,Ha,Past,5,36085,5,Yo'q,O'zgartirmagan
+CUST-00932,Mobiuz,2017,Ha,Past,8,43280,2,Ha,Internet tezligi pastligi
+CUST-00933,Mobiuz,2020,Ha,Past,8,34864,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00934,Beeline,2020,Ha,Past,6,31221,3,Yo'q,O'zgartirmagan
+CUST-00935,Ucell,2021,Yo'q,O'rta,27,86849,1,Ha,Internet tezligi pastligi
+CUST-00936,Ucell,2022,Yo'q,O'rta,29,70702,4,Yo'q,O'zgartirmagan
+CUST-00937,Ucell,2018,Ha,O'rta,27,75385,3,Yo'q,O'zgartirmagan
+CUST-00938,Mobiuz,2021,Yo'q,O'rta,39,91225,2,Yo'q,O'zgartirmagan
+CUST-00939,Ucell,2019,Ha,Past,7,33782,1,Ha,Internet tezligi pastligi
+CUST-00940,Beeline,2022,Ha,Past,11,54094,1,Ha,Internet tezligi pastligi
+CUST-00941,Ucell,2022,Yo'q,Past,9,53866,4,Ha,Internet tezligi pastligi
+CUST-00942,Beeline,2020,Ha,O'rta,43,79049,3,Yo'q,O'zgartirmagan
+CUST-00943,Uzmobile,2021,Ha,Past,2,46269,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00944,Uzmobile,2020,Ha,Past,9,41683,1,Ha,Internet tezligi pastligi
+CUST-00945,Ucell,2020,Ha,O'rta,40,73335,3,Yo'q,O'zgartirmagan
+CUST-00946,Ucell,2022,Yo'q,Zo'r,107,177658,3,Yo'q,O'zgartirmagan
+CUST-00947,Ucell,2020,Ha,Past,10,54179,2,Ha,Tariflar qimmatligi
+CUST-00948,Mobiuz,2020,Ha,O'rta,32,87684,2,Ha,Internet tezligi pastligi
+CUST-00949,Mobiuz,2020,Ha,O'rta,40,82754,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00950,Uzmobile,2022,Ha,Zo'r,108,109107,3,Yo'q,O'zgartirmagan
+CUST-00951,Uzmobile,2020,Ha,Zo'r,98,105993,5,Ha,Internet tezligi pastligi
+CUST-00952,Uzmobile,2019,Ha,Past,7,58114,1,Ha,Tariflar qimmatligi
+CUST-00953,Ucell,2021,Yo'q,Past,6,49291,3,Yo'q,O'zgartirmagan
+CUST-00954,Mobiuz,2022,Ha,Zo'r,107,116138,2,Yo'q,O'zgartirmagan
+CUST-00955,Beeline,2018,Ha,O'rta,31,69190,2,Yo'q,O'zgartirmagan
+CUST-00956,Beeline,2019,Ha,O'rta,18,72886,2,Yo'q,O'zgartirmagan
+CUST-00957,Beeline,2018,Ha,O'rta,33,76779,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00958,Ucell,2020,Ha,O'rta,29,89086,3,Ha,Internet tezligi pastligi
+CUST-00959,Ucell,2020,Ha,Zo'r,87,103435,3,Yo'q,O'zgartirmagan
+CUST-00960,Uzmobile,2021,Ha,Zo'r,46,153331,2,Yo'q,O'zgartirmagan
+CUST-00961,Ucell,2021,Yo'q,O'rta,29,89059,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00962,Uzmobile,2021,Ha,Past,7,45153,1,Ha,Tariflar qimmatligi
+CUST-00963,Ucell,2020,Ha,Zo'r,82,153014,3,Ha,Tariflar qimmatligi
+CUST-00964,Beeline,2022,Ha,Past,12,41122,1,Yo'q,O'zgartirmagan
+CUST-00965,Ucell,2020,Ha,Past,12,32971,3,Ha,Internet tezligi pastligi
+CUST-00966,Beeline,2023,Ha,Zo'r,110,108314,2,Yo'q,O'zgartirmagan
+CUST-00967,Uzmobile,2021,Ha,Past,9,39628,2,Yo'q,O'zgartirmagan
+CUST-00968,Ucell,2018,Ha,Past,12,41492,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-00969,Beeline,2021,Ha,Past,3,48870,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00970,Beeline,2020,Ha,Zo'r,94,120365,1,Ha,Internet tezligi pastligi
+CUST-00971,Uzmobile,2021,Ha,O'rta,36,61737,2,Yo'q,O'zgartirmagan
+CUST-00972,Mobiuz,2018,Ha,O'rta,17,69096,3,Yo'q,O'zgartirmagan
+CUST-00973,Uzmobile,2019,Ha,Past,4,42682,3,Ha,Internet tezligi pastligi
+CUST-00974,Ucell,2022,Ha,Zo'r,107,127499,2,Yo'q,O'zgartirmagan
+CUST-00975,Ucell,2019,Ha,Zo'r,111,146157,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00976,Ucell,2022,Yo'q,Past,9,38266,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00977,Uzmobile,2019,Ha,O'rta,21,92536,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00978,Ucell,2021,Ha,Past,6,41434,1,Ha,Tariflar qimmatligi
+CUST-00979,Beeline,2021,Ha,Zo'r,59,138098,4,Yo'q,O'zgartirmagan
+CUST-00980,Uzmobile,2020,Ha,O'rta,30,77493,2,Yo'q,O'zgartirmagan
+CUST-00981,Beeline,2020,Ha,Zo'r,65,103771,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00982,Uzmobile,2019,Ha,Past,5,52507,2,Ha,Internet tezligi pastligi
+CUST-00983,Ucell,2017,Ha,Zo'r,94,117558,1,Yo'q,O'zgartirmagan
+CUST-00984,Ucell,2020,Ha,Zo'r,57,158436,3,Yo'q,O'zgartirmagan
+CUST-00985,Uzmobile,2021,Ha,O'rta,18,86567,1,Yo'q,O'zgartirmagan
+CUST-00986,Beeline,2023,Yo'q,Zo'r,53,132376,1,Ha,Internet tezligi pastligi
+CUST-00987,Uzmobile,2022,Ha,O'rta,33,81922,3,Yo'q,O'zgartirmagan
+CUST-00988,Beeline,2021,Ha,Past,6,59332,2,Ha,Tariflar qimmatligi
+CUST-00989,Ucell,2021,Ha,O'rta,40,83495,3,Yo'q,O'zgartirmagan
+CUST-00990,Uzmobile,2021,Ha,O'rta,33,80991,3,Yo'q,O'zgartirmagan
+CUST-00991,Uzmobile,2019,Ha,O'rta,31,86849,2,Ha,Boshqa sabab
+CUST-00992,Uzmobile,2022,Yo'q,Past,7,32765,3,Yo'q,O'zgartirmagan
+CUST-00993,Ucell,2021,Yo'q,O'rta,17,97259,1,Ha,Internet tezligi pastligi
+CUST-00994,Uzmobile,2020,Ha,Past,5,33083,3,Ha,Tariflar qimmatligi
+CUST-00995,Beeline,2018,Ha,O'rta,27,94625,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00996,Ucell,2020,Ha,O'rta,16,77806,2,Ha,Tariflar qimmatligi
+CUST-00997,Mobiuz,2020,Ha,O'rta,37,62972,3,Yo'q,O'zgartirmagan
+CUST-00998,Ucell,2022,Yo'q,Past,2,35599,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-00999,Mobiuz,2020,Ha,O'rta,21,78653,5,Yo'q,O'zgartirmagan
+CUST-01000,Beeline,2020,Ha,Past,13,51133,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01001,Ucell,2023,Ha,Past,13,55757,2,Ha,Internet tezligi pastligi
+CUST-01002,Beeline,2018,Ha,Zo'r,76,144013,2,Ha,Boshqa sabab
+CUST-01003,Mobiuz,2020,Ha,Zo'r,114,114706,2,Yo'q,O'zgartirmagan
+CUST-01004,Uzmobile,2017,Ha,O'rta,38,87909,3,Yo'q,O'zgartirmagan
+CUST-01005,Uzmobile,2021,Yo'q,Zo'r,71,176631,2,Yo'q,O'zgartirmagan
+CUST-01006,Uzmobile,2022,Yo'q,Zo'r,68,126469,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01007,Uzmobile,2019,Ha,Zo'r,78,107847,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01008,Mobiuz,2022,Yo'q,Past,12,33285,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01009,Ucell,2019,Ha,Zo'r,68,116704,2,Yo'q,O'zgartirmagan
+CUST-01010,Beeline,2022,Ha,O'rta,32,60555,4,Yo'q,O'zgartirmagan
+CUST-01011,Ucell,2021,Ha,Past,13,35432,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01012,Mobiuz,2022,Ha,Past,12,51147,3,Ha,Internet tezligi pastligi
+CUST-01013,Mobiuz,2017,Ha,O'rta,22,70619,2,Yo'q,O'zgartirmagan
+CUST-01014,Ucell,2023,Ha,Past,8,40196,4,Yo'q,O'zgartirmagan
+CUST-01015,Uzmobile,2021,Yo'q,Past,3,56506,1,Ha,Internet tezligi pastligi
+CUST-01016,Mobiuz,2020,Ha,Past,7,51225,4,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01017,Ucell,2022,Ha,Zo'r,79,126739,3,Yo'q,O'zgartirmagan
+CUST-01018,Beeline,2019,Ha,Zo'r,86,153019,2,Ha,Internet tezligi pastligi
+CUST-01019,Mobiuz,2022,Ha,Past,12,33793,3,Ha,Internet tezligi pastligi
+CUST-01020,Ucell,2018,Ha,Zo'r,68,139220,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01021,Uzmobile,2021,Yo'q,Zo'r,116,107642,1,Yo'q,O'zgartirmagan
+CUST-01022,Ucell,2020,Ha,Zo'r,49,133760,4,Yo'q,O'zgartirmagan
+CUST-01023,Mobiuz,2018,Ha,Past,2,55953,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01024,Mobiuz,2019,Ha,O'rta,44,91047,2,Ha,Internet tezligi pastligi
+CUST-01025,Mobiuz,2017,Ha,Zo'r,107,104782,1,Yo'q,O'zgartirmagan
+CUST-01026,Beeline,2020,Ha,O'rta,40,89409,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01027,Mobiuz,2020,Ha,Past,8,57262,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01028,Mobiuz,2020,Ha,O'rta,22,91933,2,Ha,Tariflar qimmatligi
+CUST-01029,Beeline,2019,Ha,O'rta,21,62523,3,Yo'q,O'zgartirmagan
+CUST-01030,Uzmobile,2019,Ha,O'rta,28,70292,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01031,Ucell,2021,Ha,Past,3,34581,5,Ha,Tariflar qimmatligi
+CUST-01032,Uzmobile,2017,Ha,Past,5,35609,3,Ha,Internet tezligi pastligi
+CUST-01033,Ucell,2022,Yo'q,Zo'r,69,150182,4,Yo'q,O'zgartirmagan
+CUST-01034,Ucell,2022,Ha,Zo'r,72,113163,1,Yo'q,O'zgartirmagan
+CUST-01035,Ucell,2021,Yo'q,Past,11,42537,2,Ha,Internet tezligi pastligi
+CUST-01036,Uzmobile,2020,Ha,Zo'r,64,142578,2,Ha,Tariflar qimmatligi
+CUST-01037,Beeline,2022,Ha,Past,13,54458,3,Ha,Tariflar qimmatligi
+CUST-01038,Uzmobile,2019,Ha,O'rta,22,60834,4,Yo'q,O'zgartirmagan
+CUST-01039,Ucell,2018,Ha,Zo'r,51,102413,1,Yo'q,O'zgartirmagan
+CUST-01040,Beeline,2019,Ha,Zo'r,78,102105,1,Yo'q,O'zgartirmagan
+CUST-01041,Beeline,2021,Ha,Zo'r,53,158408,4,Yo'q,O'zgartirmagan
+CUST-01042,Uzmobile,2017,Ha,Past,14,46617,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01043,Beeline,2020,Ha,Zo'r,69,179731,3,Yo'q,O'zgartirmagan
+CUST-01044,Uzmobile,2023,Yo'q,Past,13,45762,3,Yo'q,O'zgartirmagan
+CUST-01045,Mobiuz,2022,Yo'q,O'rta,21,75898,4,Yo'q,O'zgartirmagan
+CUST-01046,Uzmobile,2020,Ha,O'rta,22,81577,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01047,Ucell,2018,Ha,O'rta,18,83698,1,Ha,Tariflar qimmatligi
+CUST-01048,Ucell,2022,Yo'q,Past,13,30212,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01049,Mobiuz,2020,Ha,Zo'r,77,145807,5,Yo'q,O'zgartirmagan
+CUST-01050,Ucell,2018,Ha,Past,11,56962,2,Ha,Internet tezligi pastligi
+CUST-01051,Mobiuz,2018,Ha,Past,7,48178,2,Ha,Internet tezligi pastligi
+CUST-01052,Beeline,2022,Ha,O'rta,19,73777,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01053,Mobiuz,2021,Ha,O'rta,25,89441,5,Yo'q,O'zgartirmagan
+CUST-01054,Uzmobile,2022,Ha,Zo'r,98,103845,4,Yo'q,O'zgartirmagan
+CUST-01055,Mobiuz,2022,Yo'q,O'rta,25,83290,5,Yo'q,O'zgartirmagan
+CUST-01056,Beeline,2020,Ha,Past,9,41484,1,Ha,Internet tezligi pastligi
+CUST-01057,Uzmobile,2020,Ha,Zo'r,46,157089,1,Ha,Internet tezligi pastligi
+CUST-01058,Beeline,2020,Ha,O'rta,43,76608,3,Yo'q,O'zgartirmagan
+CUST-01059,Beeline,2020,Ha,Past,11,30737,4,Yo'q,O'zgartirmagan
+CUST-01060,Uzmobile,2020,Ha,O'rta,26,72470,2,Yo'q,O'zgartirmagan
+CUST-01061,Mobiuz,2021,Ha,O'rta,22,82372,2,Yo'q,O'zgartirmagan
+CUST-01062,Mobiuz,2021,Ha,O'rta,36,74779,4,Yo'q,O'zgartirmagan
+CUST-01063,Uzmobile,2022,Ha,O'rta,15,89294,1,Yo'q,O'zgartirmagan
+CUST-01064,Beeline,2020,Ha,Zo'r,50,121630,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01065,Beeline,2021,Ha,Zo'r,63,119935,3,Yo'q,O'zgartirmagan
+CUST-01066,Uzmobile,2021,Yo'q,O'rta,41,82784,3,Yo'q,O'zgartirmagan
+CUST-01067,Ucell,2020,Ha,Past,12,53027,3,Ha,Tariflar qimmatligi
+CUST-01068,Ucell,2021,Ha,Zo'r,77,157853,2,Yo'q,O'zgartirmagan
+CUST-01069,Beeline,2019,Ha,O'rta,22,61823,3,Yo'q,O'zgartirmagan
+CUST-01070,Ucell,2020,Ha,O'rta,19,73072,3,Yo'q,O'zgartirmagan
+CUST-01071,Ucell,2018,Ha,O'rta,44,75111,3,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01072,Ucell,2020,Ha,Zo'r,101,124161,3,Yo'q,O'zgartirmagan
+CUST-01073,Ucell,2020,Ha,O'rta,23,99287,2,Ha,Internet tezligi pastligi
+CUST-01074,Ucell,2021,Ha,Past,8,31777,1,Ha,Internet tezligi pastligi
+CUST-01075,Mobiuz,2023,Yo'q,O'rta,21,84014,1,Yo'q,O'zgartirmagan
+CUST-01076,Beeline,2021,Yo'q,Zo'r,97,146389,2,Ha,Internet tezligi pastligi
+CUST-01077,Beeline,2021,Yo'q,Past,5,48161,3,Ha,Tariflar qimmatligi
+CUST-01078,Uzmobile,2020,Ha,Zo'r,69,107490,4,Yo'q,O'zgartirmagan
+CUST-01079,Ucell,2021,Ha,O'rta,42,84502,3,Yo'q,O'zgartirmagan
+CUST-01080,Mobiuz,2018,Ha,O'rta,28,92737,4,Yo'q,O'zgartirmagan
+CUST-01081,Uzmobile,2019,Ha,Past,7,41914,2,Ha,Internet tezligi pastligi
+CUST-01082,Ucell,2020,Ha,Past,9,38998,2,Ha,Tariflar qimmatligi
+CUST-01083,Beeline,2020,Ha,Zo'r,79,170192,2,Yo'q,O'zgartirmagan
+CUST-01084,Mobiuz,2017,Ha,Past,7,55735,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01085,Mobiuz,2018,Ha,Zo'r,98,129092,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01086,Beeline,2019,Ha,O'rta,41,61831,3,Yo'q,O'zgartirmagan
+CUST-01087,Uzmobile,2023,Ha,Past,3,58511,5,Ha,Internet tezligi pastligi
+CUST-01088,Ucell,2020,Ha,Past,13,48302,1,Ha,Tariflar qimmatligi
+CUST-01089,Mobiuz,2020,Ha,O'rta,31,63232,1,Yo'q,O'zgartirmagan
+CUST-01090,Ucell,2019,Ha,Zo'r,91,151507,4,Ha,Tariflar qimmatligi
+CUST-01091,Mobiuz,2021,Ha,O'rta,36,70972,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01092,Uzmobile,2019,Ha,O'rta,23,94592,4,Ha,Boshqa sabab
+CUST-01093,Uzmobile,2019,Ha,Past,13,53664,3,Ha,Internet tezligi pastligi
+CUST-01094,Beeline,2020,Ha,O'rta,43,93172,5,Yo'q,O'zgartirmagan
+CUST-01095,Ucell,2017,Ha,O'rta,40,81700,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01096,Ucell,2017,Ha,Zo'r,54,136613,3,Yo'q,O'zgartirmagan
+CUST-01097,Ucell,2019,Ha,O'rta,38,80594,3,Ha,Internet tezligi pastligi
+CUST-01098,Ucell,2017,Ha,O'rta,39,90348,3,Yo'q,O'zgartirmagan
+CUST-01099,Uzmobile,2018,Ha,Past,2,39491,2,Yo'q,O'zgartirmagan
+CUST-01100,Beeline,2020,Ha,Zo'r,101,158759,1,Ha,Internet tezligi pastligi
+CUST-01101,Ucell,2022,Ha,Past,11,30968,3,Ha,Internet tezligi pastligi
+CUST-01102,Mobiuz,2020,Ha,Past,2,38424,3,Ha,Tariflar qimmatligi
+CUST-01103,Mobiuz,2020,Ha,O'rta,17,95851,4,Yo'q,O'zgartirmagan
+CUST-01104,Mobiuz,2019,Ha,O'rta,24,85496,3,Ha,Tariflar qimmatligi
+CUST-01105,Mobiuz,2023,Yo'q,O'rta,31,90936,3,Yo'q,O'zgartirmagan
+CUST-01106,Ucell,2020,Ha,O'rta,25,61469,1,Yo'q,O'zgartirmagan
+CUST-01107,Beeline,2018,Ha,Zo'r,80,136390,3,Yo'q,O'zgartirmagan
+CUST-01108,Uzmobile,2021,Ha,Past,6,56841,3,Ha,Internet tezligi pastligi
+CUST-01109,Uzmobile,2018,Ha,Zo'r,100,122912,4,Yo'q,O'zgartirmagan
+CUST-01110,Ucell,2020,Ha,O'rta,38,96981,5,Yo'q,O'zgartirmagan
+CUST-01111,Uzmobile,2020,Ha,O'rta,18,93547,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01112,Ucell,2022,Ha,O'rta,38,79276,4,Yo'q,O'zgartirmagan
+CUST-01113,Ucell,2020,Ha,Past,5,35534,1,Ha,Internet tezligi pastligi
+CUST-01114,Beeline,2021,Yo'q,Zo'r,112,136486,2,Ha,Tariflar qimmatligi
+CUST-01115,Uzmobile,2023,Yo'q,O'rta,36,94268,3,Yo'q,O'zgartirmagan
+CUST-01116,Uzmobile,2018,Ha,Past,12,45799,1,Ha,Internet tezligi pastligi
+CUST-01117,Ucell,2019,Ha,O'rta,15,63641,3,Yo'q,O'zgartirmagan
+CUST-01118,Mobiuz,2020,Ha,Zo'r,108,113306,1,Yo'q,O'zgartirmagan
+CUST-01119,Ucell,2020,Ha,O'rta,21,68587,1,Ha,Internet tezligi pastligi
+CUST-01120,Ucell,2020,Ha,Zo'r,51,121498,3,Yo'q,O'zgartirmagan
+CUST-01121,Mobiuz,2022,Ha,Past,8,34326,3,Ha,Tariflar qimmatligi
+CUST-01122,Mobiuz,2021,Ha,Past,11,57197,5,Yo'q,O'zgartirmagan
+CUST-01123,Mobiuz,2021,Ha,Past,11,40471,3,Ha,Internet tezligi pastligi
+CUST-01124,Uzmobile,2020,Ha,O'rta,23,72641,3,Ha,Tariflar qimmatligi
+CUST-01125,Uzmobile,2022,Ha,Past,14,42726,2,Yo'q,O'zgartirmagan
+CUST-01126,Beeline,2023,Ha,Past,8,45651,1,Ha,Internet tezligi pastligi
+CUST-01127,Ucell,2022,Yo'q,Zo'r,68,156747,1,Yo'q,O'zgartirmagan
+CUST-01128,Beeline,2017,Ha,Zo'r,61,106273,3,Yo'q,O'zgartirmagan
+CUST-01129,Beeline,2021,Yo'q,O'rta,27,85692,3,Yo'q,O'zgartirmagan
+CUST-01130,Ucell,2018,Ha,Past,3,58955,2,Ha,Tariflar qimmatligi
+CUST-01131,Uzmobile,2019,Ha,Past,13,50378,3,Yo'q,O'zgartirmagan
+CUST-01132,Beeline,2018,Ha,Past,9,46846,3,Ha,Internet tezligi pastligi
+CUST-01133,Ucell,2021,Ha,O'rta,15,71539,1,Yo'q,O'zgartirmagan
+CUST-01134,Ucell,2021,Ha,Zo'r,86,146219,1,Yo'q,O'zgartirmagan
+CUST-01135,Uzmobile,2018,Ha,O'rta,19,78120,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01136,Ucell,2020,Ha,Past,8,58615,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01137,Mobiuz,2020,Ha,O'rta,30,75629,4,Yo'q,O'zgartirmagan
+CUST-01138,Beeline,2020,Ha,Past,12,55240,1,Ha,Internet tezligi pastligi
+CUST-01139,Beeline,2018,Ha,O'rta,27,93782,5,Yo'q,O'zgartirmagan
+CUST-01140,Uzmobile,2020,Ha,O'rta,35,70860,2,Ha,Tariflar qimmatligi
+CUST-01141,Uzmobile,2021,Ha,O'rta,19,66009,1,Yo'q,O'zgartirmagan
+CUST-01142,Beeline,2018,Ha,Past,12,57445,5,Ha,Internet tezligi pastligi
+CUST-01143,Uzmobile,2018,Ha,Past,6,46012,2,Ha,Tariflar qimmatligi
+CUST-01144,Beeline,2020,Ha,Zo'r,72,168906,3,Yo'q,O'zgartirmagan
+CUST-01145,Ucell,2023,Yo'q,Past,10,47778,1,Ha,Internet tezligi pastligi
+CUST-01146,Mobiuz,2021,Ha,Past,4,50454,3,Ha,Tariflar qimmatligi
+CUST-01147,Uzmobile,2021,Ha,Past,8,38613,5,Yo'q,O'zgartirmagan
+CUST-01148,Uzmobile,2020,Ha,Past,4,42349,2,Ha,Tariflar qimmatligi
+CUST-01149,Mobiuz,2020,Ha,O'rta,27,63190,3,Yo'q,O'zgartirmagan
+CUST-01150,Mobiuz,2017,Ha,Zo'r,52,117459,1,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01151,Uzmobile,2021,Yo'q,Past,12,43600,3,Yo'q,O'zgartirmagan
+CUST-01152,Mobiuz,2022,Ha,O'rta,28,78768,2,Ha,Tariflar qimmatligi
+CUST-01153,Uzmobile,2021,Ha,O'rta,24,75563,2,Ha,Tariflar qimmatligi
+CUST-01154,Uzmobile,2022,Ha,O'rta,30,87885,2,Ha,Tariflar qimmatligi
+CUST-01155,Uzmobile,2021,Ha,Zo'r,71,106895,1,Yo'q,O'zgartirmagan
+CUST-01156,Uzmobile,2018,Ha,Zo'r,52,167067,5,Yo'q,O'zgartirmagan
+CUST-01157,Ucell,2022,Ha,Past,11,53932,2,Ha,Mijozlarni qo'llab-quvvatlash yomonligi
+CUST-01158,Mobiuz,2018,Ha,Zo'r,108,138931,2,Yo'q,O'zgartirmagan
+CUST-01159,Mobiuz,2020,Ha,O'rta,30,98032,2,Yo'q,O'zgartirmagan
+CUST-01160,Ucell,2018,Ha,Zo'r,63,118807,2,Yo'q,O'zgartirmagan
+CUST-01161,Uzmobile,2017,Ha,O'rta,38,68071,3,Yo'q,O'zgartirmagan
+CUST-01162,Ucell,2020,Ha,Zo'r,82,126149,5,Yo'q,O'zgartirmagan
+CUST-01163,Beeline,2019,Ha,Zo'r,97,170248,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01164,Uzmobile,2020,Ha,Past,5,56201,4,Ha,Internet tezligi pastligi
+CUST-01165,Ucell,2020,Ha,O'rta,26,79899,3,Yo'q,O'zgartirmagan
+CUST-01166,Uzmobile,2017,Ha,Zo'r,61,122606,1,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01167,Mobiuz,2018,Ha,Zo'r,117,110150,3,Ha,Tariflar qimmatligi
+CUST-01168,Beeline,2020,Ha,Past,11,49119,3,Yo'q,O'zgartirmagan
+CUST-01169,Ucell,2020,Ha,O'rta,26,87750,3,Yo'q,O'zgartirmagan
+CUST-01170,Ucell,2021,Yo'q,Past,3,47358,4,Yo'q,O'zgartirmagan
+CUST-01171,Uzmobile,2021,Ha,Past,7,53161,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01172,Mobiuz,2022,Ha,O'rta,26,88074,5,Yo'q,O'zgartirmagan
+CUST-01173,Uzmobile,2021,Yo'q,Past,5,41426,4,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01174,Ucell,2020,Ha,Zo'r,98,150493,3,Yo'q,O'zgartirmagan
+CUST-01175,Uzmobile,2021,Yo'q,Past,6,38401,3,Ha,Internet tezligi pastligi
+CUST-01176,Beeline,2019,Ha,Zo'r,60,113703,2,Yo'q,O'zgartirmagan
+CUST-01177,Uzmobile,2020,Ha,Past,10,59565,5,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01178,Ucell,2021,Ha,Past,11,49187,3,Yo'q,O'zgartirmagan
+CUST-01179,Uzmobile,2020,Ha,Past,7,52942,1,Ha,Internet tezligi pastligi
+CUST-01180,Beeline,2021,Ha,Past,12,30393,2,Ha,Internet tezligi pastligi
+CUST-01181,Mobiuz,2022,Ha,Past,9,45992,3,Yo'q,O'zgartirmagan
+CUST-01182,Beeline,2022,Yo'q,Past,13,39716,1,Yo'q,O'zgartirmagan
+CUST-01183,Uzmobile,2022,Ha,O'rta,42,93349,1,Ha,Internet tezligi pastligi
+CUST-01184,Mobiuz,2020,Ha,Past,12,40131,3,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01185,Ucell,2020,Ha,O'rta,19,63385,2,Yo'q,O'zgartirmagan
+CUST-01186,Mobiuz,2020,Ha,O'rta,41,95036,2,Ha,Internet tezligi pastligi
+CUST-01187,Uzmobile,2020,Ha,Zo'r,98,107213,2,Yo'q,O'zgartirmagan
+CUST-01188,Ucell,2021,Yo'q,Zo'r,66,144223,1,Ha,Internet tezligi pastligi
+CUST-01189,Beeline,2021,Ha,O'rta,22,62835,3,Yo'q,O'zgartirmagan
+CUST-01190,Uzmobile,2021,Ha,Past,4,39549,3,Yo'q,O'zgartirmagan
+CUST-01191,Ucell,2020,Ha,Past,8,55892,2,Ha,Uy ichida qamrov (signal) yo'qligi
+CUST-01192,Uzmobile,2019,Ha,Zo'r,94,173889,2,Ha,Internet tezligi pastligi
+CUST-01193,Beeline,2020,Ha,Past,12,31909,3,Ha,Internet tezligi pastligi
+CUST-01194,Uzmobile,2018,Ha,Past,9,44496,1,Yo'q,O'zgartirmagan
+CUST-01195,Ucell,2022,Ha,Past,12,57701,1,Ha,Internet tezligi pastligi
+CUST-01196,Mobiuz,2020,Ha,Past,13,35153,1,Ha,Internet tezligi pastligi
+CUST-01197,Mobiuz,2019,Ha,Past,3,30966,4,Ha,Tariflar qimmatligi
+CUST-01198,Mobiuz,2017,Ha,Zo'r,106,128205,4,Yo'q,O'zgartirmagan
+CUST-01199,Uzmobile,2021,Ha,Past,9,46006,4,Ha,Internet tezligi pastligi
+CUST-01200,Ucell,2021,Ha,O'rta,36,70940,3,Yo'q,O'zgartirmagan
